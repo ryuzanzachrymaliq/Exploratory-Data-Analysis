@@ -1,0 +1,1213 @@
+id_transaksi,tanggal,kota,kategori,produk,jumlah,harga_satuan,diskon_persen,metode_bayar,rating_pelanggan,total_bayar
+TRX2024198,2024-11-14,Jakarta Selatan,Makanan,Sambal Roa,8,38000,5,Transfer,4.7,288800
+TRX2025061,2024-08-16,Depok,Fashion,Kaos Lokal,8,131500,15,Tunai,3.8,894200
+TRX2024249,2024-12-21,Depok,Fashion,Hijab Motif,12,102500,10,E-Wallet,4.3,1107000
+TRX2024903,2024-09-27,Bekasi,Fashion,Kemeja Tenun,11,113500,10,E-Wallet,,1123650
+TRX2024097,2024-05-06,Depok,Kerajinan,Batik Tulis,8,123000,20,QRIS,4.5,787200
+TRX2024380,2024-02-14,Bekasi,Minuman,Kopi Bubuk,9,42000,5,Tunai,3.8,359100
+TRX2024391,2024-02-09,Tangerang Selatan,Makanan,Keripik Singkong,11,36500,0,Tunai,5.0,401500
+TRX2024107,2024-03-11,Depok,Makanan,Rendang Kemasan,7,34000,0,QRIS,,238000
+TRX2024557,2024-10-09,DEPOK,Minuman,Sirup Markisa,8,46000,5,E-Wallet,5.0,349600
+TRX2024407,2024-11-01,Jakarta Selatan,Makanan,Sambal Roa,2,28000,0,Transfer,3.7,56000
+TRX2024626,2024-10-10,Bogor,Kerajinan,Batik Tulis,1,122000,5,E-Wallet,4.2,115900
+TRX2025188,2024-03-09,Depok,Minuman,Kopi Bubuk,9,31500,0,E-Wallet,4.1,283500
+TRX2024808,2024-11-03,Jakarta Selatan,Minuman,Kopi Bubuk,11,38000,20,QRIS,3.6,334400
+TRX2024613,2024-03-26,Bekasi,Minuman,Kopi Bubuk,8,50000,0,QRIS,5.0,400000
+TRX2024057,2024-01-17,Depok,Kerajinan,Batik Tulis,2,191500,20,E-Wallet,4.6,306400
+TRX2025119,2024-10-01,Depok,Makanan,Kue Kering,7,34500,5,QRIS,4.0,229425
+TRX2024942,2024-04-01,Jakarta Selatan,Makanan,Sambal Roa,12,25000,0,QRIS,4.4,300000
+TRX2024639,2024-01-06,Jakarta Selatan,Fashion,Hijab Motif,2,96500,0,Transfer,3.5,193000
+TRX2024670,2024-04-06,Tangerang Selatan,Makanan,Rendang Kemasan,12,24500,10,Transfer,4.9,264600
+TRX2024317,2024-10-19,Bekasi,Makanan,Sambal Roa,10,21500,20,E-Wallet,4.1,172000
+TRX2024549,2024-01-03,Tangerang Selatan,Minuman,Sirup Markisa,1,46500,0,QRIS,4.5,46500
+TRX2024686,2024-12-24,Jakarta Selatan,Makanan,Rendang Kemasan,10,34000,0,QRIS,4.5,340000
+TRX2024255,2024-04-01,Bogor,Fashion,Kaos Lokal,5,119000,0,Tunai,5.0,595000
+TRX2024624,2024-07-15,Bekasi,Makanan,Kue Kering,11,31500,0,Transfer,3.9,346500
+TRX2024782,2024-12-01,Jakarta Selatan,Makanan,Rendang Kemasan,13,25000,20,QRIS,4.2,260000
+TRX2025090,2024-11-27,Tangerang Selatan,Minuman,Sirup Markisa,6,55500,10,QRIS,2.8,299700
+TRX2024019,2024-06-19,Depok,Makanan,Keripik Singkong,14,29500,15,Transfer,5.0,351050
+TRX2025008,2024-03-02,Depok,Makanan,Kue Kering,9,35000,15,QRIS,4.6,267750
+TRX2024210,2024-09-25,Depok,Minuman,Sirup Markisa,6,29500,10,Tunai,4.4,159300
+TRX2024449,2024-06-19,Tangerang Selatan,Makanan,Kue Kering,1,38000,0,E-Wallet,4.3,38000
+TRX2024669,2024-11-04,Depok,Makanan,Kue Kering,6,22500,0,Transfer,4.0,135000
+TRX2024715,2024-06-06,Bogor,Minuman,Kopi Bubuk,9,40000,0,QRIS,4.1,360000
+TRX2024838,2024-02-13,Bogor,Makanan,Sambal Roa,12,21500,20,Transfer,3.7,206400
+TRX2024502,2024-06-26,Depok,Makanan,Rendang Kemasan,12,29500,0,Transfer,4.6,354000
+TRX2024800,2024-12-05,Bogor,Makanan,Sambal Roa,9,32000,0,Tunai,4.4,288000
+TRX2024509,2024-02-26,Bekasi,Kerajinan,Batik Tulis,4,167500,0,Tunai,,670000
+TRX2024121,2024-05-31,Bekasi,Kerajinan,Batik Tulis,13,132000,5,Tunai,4.4,1630200
+TRX2025037,2024-11-12,Jakarta Selatan,Kerajinan,Gerabah Hias,2,151000,0,QRIS,3.3,302000
+TRX2024190,2024-07-03,BOGOR,Makanan,Keripik Singkong,2,36000,5,E-Wallet,3.6,68400
+TRX2024692,2024-08-07,Depok,Kerajinan,Gerabah Hias,10,107000,0,Transfer,4.4,1070000
+TRX2024750,2024-08-06,Bekasi,Minuman,Teh Herbal,14,52500,15,Transfer,4.2,624750
+TRX2024343,2024-05-07,Depok,Minuman,Kopi Bubuk,8,41500,0,Transfer,3.7,332000
+TRX2024232,2024-08-26,Tangerang Selatan,Kerajinan,Tas Anyaman,14,135500,0,QRIS,3.6,1897000
+TRX2025020,2024-03-06,Bogor,Makanan,Rendang Kemasan,8,20000,5,Tunai,4.0,152000
+TRX2025006,2024-08-11,Bogor,Kerajinan,Tas Anyaman,10,116500,0,Tunai,3.6,1165000
+TRX2024197,2024-10-05,Depok,Fashion,Kemeja Tenun,1,147000,15,QRIS,5.0,124950
+TRX2025165,2024-09-01,Bogor,Makanan,Keripik Singkong,14,27000,0,E-Wallet,,378000
+TRX2024180,2024-10-21,Bogor,Minuman,Kopi Bubuk,14,38500,0,QRIS,4.5,539000
+TRX2024411,2024-08-24,Tangerang Selatan,Makanan,Kue Kering,14,32000,10,QRIS,4.8,403200
+TRX2024146,2024-04-30,Bogor,Kerajinan,Batik Tulis,8,183000,0,QRIS,4.0,1464000
+TRX2024895,2024-11-25,Tangerang Selatan,Makanan,Rendang Kemasan,13,34000,20,E-Wallet,4.2,353600
+TRX2024288,2024-11-05,Bogor,Makanan,Kue Kering,12,27500,5,QRIS,4.3,313500
+TRX2024123,2024-12-27,BOGOR,Kerajinan,Batik Tulis,1,190000,0,E-Wallet,4.3,190000
+TRX2025054,2024-11-27,Depok,Makanan,Keripik Singkong,14,31500,10,Tunai,4.8,396900
+TRX2024290,2024-07-02,Tangerang Selatan,Kerajinan,Gerabah Hias,4,171500,10,E-Wallet,3.9,617400
+TRX2024321,2024-07-16,Jakarta Selatan,Makanan,Sambal Roa,7,33500,20,QRIS,3.7,187600
+TRX2024930,2024-01-13,Bekasi,Makanan,Rendang Kemasan,2,31500,5,E-Wallet,3.1,59850
+TRX2024877,2024-03-13,Tangerang Selatan,Kerajinan,Tas Anyaman,8,128500,5,Tunai,,976600
+TRX2024452,2024-08-16,Depok,Makanan,Sambal Roa,1,30000,20,Transfer,3.7,24000
+TRX2024415,2024-07-22,Depok,Makanan,Rendang Kemasan,10,39500,0,Tunai,3.7,395000
+TRX2024144,2024-04-16,Bekasi,Kerajinan,Batik Tulis,1,139000,20,E-Wallet,4.0,111200
+TRX2024173,2024-10-10,Depok,Makanan,Keripik Singkong,3,37500,10,E-Wallet,5.0,101250
+TRX2025070,2024-07-17,Jakarta Selatan,Makanan,Sambal Roa,1,21000,0,QRIS,3.6,21000
+TRX2024385,2024-01-27,Depok,Makanan,Sambal Roa,9,39000,0,QRIS,5.0,351000
+TRX2025133,2024-11-23,Depok,Makanan,Rendang Kemasan,4,33500,10,E-Wallet,4.1,120600
+TRX2024824,2024-05-04,Depok,Minuman,Sirup Markisa,12,47000,0,Tunai,4.2,564000
+TRX2024539,2024-09-08,Depok,Makanan,Sambal Roa,10,24000,0,QRIS,4.6,240000
+TRX2024469,2024-02-18,Tangerang Selatan,Kerajinan,Gerabah Hias,7,142000,0,QRIS,4.2,994000
+TRX2024303,2024-10-19,Jakarta Selatan,Fashion,Kemeja Tenun,13,114000,5,Tunai,4.3,1407900
+TRX2024901,2024-11-13,Jakarta Selatan,Minuman,Teh Herbal,7,48500,0,QRIS,4.0,339500
+TRX2024239,2024-12-27,Jakarta Selatan,Kerajinan,Batik Tulis,5,107000,0,Transfer,,535000
+TRX2024700,2024-09-23,Bekasi,Minuman,Sirup Markisa,6,32500,0,Transfer,3.9,195000
+TRX2024953,2024-07-28,Depok,Makanan,Rendang Kemasan,2,34000,5,Tunai,3.3,64600
+TRX2024498,2024-05-20,Bogor,Fashion,Hijab Motif,6,119000,0,Tunai,3.6,714000
+TRX2024227,2024-10-08,Bogor,Kerajinan,Gerabah Hias,4,183500,0,E-Wallet,3.6,734000
+TRX2024829,2024-09-23,Bogor,Makanan,Rendang Kemasan,3,33500,0,Tunai,5.0,100500
+TRX2024119,2024-10-09,Jakarta Selatan,Minuman,Teh Herbal,6,30500,20,Tunai,4.4,146400
+TRX2024749,2024-04-03,Jakarta Selatan,Makanan,Kue Kering,13,27000,0,E-Wallet,4.3,351000
+TRX2024440,2024-04-06,Jakarta Selatan,Fashion,Kaos Lokal,7,79500,0,QRIS,3.9,556500
+TRX2024617,2024-11-23,Depok,Makanan,Kue Kering,8,36000,0,Transfer,3.7,288000
+TRX2025157,2024-12-04,Bekasi,Minuman,Sirup Markisa,7,46000,20,E-Wallet,,257600
+TRX2024339,2024-04-08,Bekasi,Makanan,Rendang Kemasan,11,39500,0,QRIS,5.0,434500
+TRX2024072,2024-07-25,Depok,Kerajinan,Gerabah Hias,1,122500,0,QRIS,3.1,122500
+TRX2024609,2024-01-15,Depok,Makanan,Keripik Singkong,9,22500,20,E-Wallet,3.8,162000
+TRX2024548,2024-05-18,Jakarta Selatan,Makanan,Rendang Kemasan,9,24000,15,Tunai,3.9,183600
+TRX2024201,2024-03-19,Bogor,Minuman,Teh Herbal,8,53000,20,Transfer,4.0,339200
+TRX2024061,2024-10-27,Depok,Fashion,Kaos Lokal,11,129000,15,QRIS,5.0,1206150
+TRX2024842,2024-10-18,Depok,Minuman,Teh Herbal,12,49500,20,Transfer,,475200
+TRX2024546,2024-05-10,Bogor,Makanan,Kue Kering,12,25500,10,Tunai,4.1,275400
+TRX2024971,2024-05-15,Depok,Minuman,Teh Herbal,1,44000,5,E-Wallet,3.1,41800
+TRX2025199,2024-07-11,Depok,Fashion,Kaos Lokal,5,117500,15,E-Wallet,3.8,499375
+TRX2024727,2024-06-03,Bekasi,Minuman,Sirup Markisa,12,32500,10,E-Wallet,3.8,351000
+TRX2024058,2024-08-16,Tangerang Selatan,Fashion,Kaos Lokal,10,125000,0,QRIS,3.8,1250000
+TRX2024560,2024-05-11,Depok,Minuman,Teh Herbal,7,30500,0,QRIS,3.4,213500
+TRX2024400,2024-07-09,Bogor,Makanan,Rendang Kemasan,1,31000,0,,4.6,31000
+TRX2024998,2024-10-01,Tangerang Selatan,Fashion,Kemeja Tenun,1,130500,0,Transfer,4.0,130500
+TRX2024147,2024-04-28,Bogor,Minuman,Kopi Bubuk,2,30500,10,Tunai,4.4,54900
+TRX2024983,2024-08-29,Bekasi,Kerajinan,Gerabah Hias,12,190500,0,Tunai,,2286000
+TRX2025107,2024-03-14,Jakarta Selatan,Makanan,Sambal Roa,10,35000,0,QRIS,4.2,350000
+TRX2025110,2024-11-18,Jakarta Selatan,Makanan,Kue Kering,3,36000,0,QRIS,4.7,108000
+TRX2025132,2024-05-17,Depok,Makanan,Sambal Roa,12,33500,0,QRIS,3.3,402000
+TRX2025072,2024-09-24,Jakarta Selatan,Makanan,Sambal Roa,1,26500,20,E-Wallet,4.2,21200
+TRX2025139,2024-01-08,BOGOR,Makanan,Rendang Kemasan,1,35500,10,E-Wallet,3.8,31950
+TRX2025042,2024-10-26,Jakarta Selatan,Makanan,Rendang Kemasan,6,38500,15,E-Wallet,4.5,196350
+TRX2024269,2024-02-10,BOGOR,Minuman,Kopi Bubuk,1,36500,0,QRIS,4.6,36500
+TRX2024883,2024-01-29,Depok,Makanan,Kue Kering,10,27500,0,E-Wallet,4.3,275000
+TRX2024085,2024-01-28,Bekasi,Fashion,Kemeja Tenun,11,141500,0,Transfer,3.7,1556500
+TRX2024157,2024-01-10,Bogor,Fashion,Kaos Lokal,3,87500,0,E-Wallet,5.0,262500
+TRX2024921,2024-01-03,Bekasi,Fashion,Hijab Motif,8,84500,0,Transfer,5.0,676000
+TRX2024920,2024-08-14,Bekasi,Fashion,Kemeja Tenun,4,131500,20,Transfer,5.0,420800
+TRX2024935,2024-04-07,Jakarta Selatan,Kerajinan,Tas Anyaman,8,157500,10,Tunai,4.7,1134000
+TRX2024537,2024-08-14,Bekasi,Kerajinan,Batik Tulis,7,163500,0,E-Wallet,3.4,1144500
+TRX2025135,2024-07-05,Tangerang Selatan,Kerajinan,Gerabah Hias,13,176500,20,Transfer,4.0,1835600
+TRX2024103,2024-08-20,Depok,Makanan,Keripik Singkong,1,22000,0,Tunai,3.7,22000
+TRX2024697,2024-08-19,Depok,Fashion,Hijab Motif,12,113500,0,E-Wallet,3.3,1362000
+TRX2024948,2024-12-08,Bogor,Fashion,Kaos Lokal,2,140500,0,E-Wallet,5.0,281000
+TRX2024528,2024-11-21,Bekasi,Kerajinan,Gerabah Hias,14,168000,15,Tunai,4.6,1999200
+TRX2024635,2024-05-12,Tangerang Selatan,Makanan,Kue Kering,3,23000,10,QRIS,4.5,62100
+TRX2024698,2024-04-01,Depok,Minuman,Teh Herbal,13,31000,10,QRIS,4.6,362700
+TRX2024602,2024-07-23,Jakarta Selatan,Kerajinan,Batik Tulis,11,102000,0,E-Wallet,4.1,1122000
+TRX2024428,2024-06-27,Bogor,Kerajinan,Tas Anyaman,5,181000,15,QRIS,4.6,769250
+TRX2024664,2024-09-07,JAKARTA SELATAN,Makanan,Rendang Kemasan,13,25000,0,,4.1,325000
+TRX2025159,2024-08-22,Depok,Makanan,Sambal Roa,5,32000,10,QRIS,4.0,144000
+TRX2025048,2024-12-15,Bekasi,Kerajinan,Batik Tulis,3,104500,0,E-Wallet,3.6,313500
+TRX2025059,2024-09-25,Depok,Fashion,Hijab Motif,12,130000,0,Tunai,3.9,1560000
+TRX2025167,2024-02-25,DEPOK,Minuman,Sirup Markisa,3,28500,20,Transfer,4.1,68400
+TRX2025077,2024-02-11,Tangerang Selatan,Minuman,Kopi Bubuk,13,55000,10,QRIS,,643500
+TRX2024450,2024-03-25,Depok,Kerajinan,Tas Anyaman,9,162000,0,QRIS,3.5,1458000
+TRX2024357,2024-04-26,Depok,Makanan,Rendang Kemasan,2,24500,15,QRIS,3.8,41650
+TRX2025147,2024-02-27,Bogor,Kerajinan,Batik Tulis,13,158000,0,Tunai,4.8,2054000
+TRX2024143,2024-08-12,Jakarta Selatan,Kerajinan,Batik Tulis,9,141000,20,QRIS,4.6,1015200
+TRX2024940,2024-07-18,Depok,Makanan,Sambal Roa,13,24000,0,Tunai,4.1,312000
+TRX2024464,2024-11-03,Depok,Kerajinan,Tas Anyaman,2,141500,0,QRIS,4.3,283000
+TRX2024003,2024-09-05,Depok,Makanan,Keripik Singkong,14,37500,15,Transfer,4.4,446250
+TRX2024648,2024-05-25,Bogor,Kerajinan,Gerabah Hias,11,165500,0,E-Wallet,3.8,1820500
+TRX2024905,2024-06-07,Bekasi,Makanan,Keripik Singkong,9,30000,0,Transfer,3.7,270000
+TRX2024095,2024-03-21,Depok,Minuman,Kopi Bubuk,6,53500,5,Transfer,3.5,304950
+TRX2024746,2024-12-27,Bogor,Makanan,Keripik Singkong,5,25000,5,,3.9,118750
+TRX2024311,2024-05-09,Bekasi,Makanan,Keripik Singkong,14,22000,5,QRIS,3.6,292600
+TRX2024235,2024-05-27,JAKARTA SELATAN,Fashion,Kemeja Tenun,6,93000,15,QRIS,,474300
+TRX2024600,2024-04-22,Jakarta Selatan,Fashion,Kaos Lokal,10,89500,0,QRIS,4.1,895000
+TRX2024465,2024-04-24,Bogor,Fashion,Kaos Lokal,2,148500,10,Tunai,3.9,267300
+TRX2025198,2024-01-22,Depok,Fashion,Hijab Motif,12,101000,0,E-Wallet,3.8,1212000
+TRX2024287,2024-10-05,Depok,Minuman,Kopi Bubuk,6,46000,0,QRIS,4.5,276000
+TRX2024871,2024-07-02,Bogor,Fashion,Kemeja Tenun,1,80000,0,QRIS,3.7,80000
+TRX2024150,2024-09-29,Bogor,Kerajinan,Gerabah Hias,14,154500,0,QRIS,4.9,2163000
+TRX2024803,2024-10-27,Bogor,Kerajinan,Tas Anyaman,6,155500,0,QRIS,4.0,933000
+TRX2024620,2024-10-03,Bogor,Minuman,Teh Herbal,11,34500,5,E-Wallet,3.9,360525
+TRX2024429,2024-06-08,Jakarta Selatan,Fashion,Kaos Lokal,2,100500,0,Tunai,2.9,201000
+TRX2024073,2024-05-31,Depok,Makanan,Rendang Kemasan,12,37000,0,Tunai,3.3,444000
+TRX2024350,2024-03-07,Bekasi,Kerajinan,Tas Anyaman,2,152500,0,E-Wallet,5.0,305000
+TRX2024885,2024-11-30,Bogor,Makanan,Sambal Roa,7,28500,0,QRIS,4.2,199500
+TRX2024849,2024-02-20,Bogor,Kerajinan,Tas Anyaman,4,170000,0,Tunai,4.3,680000
+TRX2024986,2024-09-13,Bekasi,Fashion,Kaos Lokal,5,150000,0,Transfer,4.0,750000
+TRX2024137,2024-11-16,Depok,Minuman,Sirup Markisa,3,35000,0,E-Wallet,4.7,105000
+TRX2024618,2024-06-15,Jakarta Selatan,Kerajinan,Batik Tulis,14,169500,20,E-Wallet,3.8,1898400
+TRX2025154,2024-07-22,Depok,Kerajinan,Tas Anyaman,9,153500,0,E-Wallet,5.0,1381500
+TRX2024330,2024-04-17,Tangerang Selatan,Makanan,Keripik Singkong,6,21500,0,QRIS,5.0,129000
+TRX2024091,2024-07-13,Jakarta Selatan,Makanan,Kue Kering,8,33500,0,E-Wallet,5.0,268000
+TRX2025018,2024-05-18,Tangerang Selatan,Minuman,Sirup Markisa,12,48500,15,QRIS,3.9,494700
+TRX2024164,2024-02-06,Bogor,Makanan,Keripik Singkong,7,35000,0,E-Wallet,4.1,245000
+TRX2024566,2024-01-20,Depok,Kerajinan,Batik Tulis,2,138000,10,Transfer,3.6,248400
+TRX2024777,2024-08-19,Depok,Makanan,Keripik Singkong,1,33500,0,Tunai,4.4,33500
+TRX2024523,2024-11-17,Bekasi,Makanan,Kue Kering,9,25500,0,QRIS,3.9,229500
+TRX2025141,2024-07-30,Depok,Kerajinan,Tas Anyaman,10,127500,10,QRIS,4.9,1147500
+TRX2024168,2024-11-08,Bogor,Kerajinan,Tas Anyaman,6,191000,0,Transfer,4.3,1146000
+TRX2024323,2024-01-17,Bogor,Kerajinan,Batik Tulis,12,179000,0,QRIS,,2148000
+TRX2024115,2024-05-31,Bogor,Makanan,Sambal Roa,13,37500,5,QRIS,3.8,463125
+TRX2024687,2024-02-06,Bogor,Kerajinan,Gerabah Hias,13,152500,0,Tunai,4.7,1982500
+TRX2024937,2024-01-12,Bekasi,Minuman,Sirup Markisa,4,28000,20,Transfer,4.2,89600
+TRX2025151,2024-03-26,Jakarta Selatan,Fashion,Kaos Lokal,3,111000,0,QRIS,4.1,333000
+TRX2025145,2024-03-26,Bogor,Fashion,Hijab Motif,3,130000,20,Tunai,4.3,312000
+TRX2024529,2024-07-26,Bekasi,Fashion,Kemeja Tenun,7,124500,5,Transfer,5.0,827925
+TRX2024027,2024-11-22,Depok,Makanan,Keripik Singkong,2,36500,0,Transfer,3.5,73000
+TRX2024471,2024-10-14,Depok,Fashion,Hijab Motif,14,117500,10,QRIS,3.5,1480500
+TRX2025041,2024-01-10,Jakarta Selatan,Makanan,Sambal Roa,3,37000,20,QRIS,3.7,88800
+TRX2024499,2024-06-18,Tangerang Selatan,Minuman,Teh Herbal,12,47000,0,Tunai,3.2,564000
+TRX2024881,2024-03-19,Depok,Minuman,Sirup Markisa,9,51500,0,Transfer,4.7,463500
+TRX2025120,2024-12-31,Depok,Kerajinan,Gerabah Hias,1,100000,0,Transfer,3.3,100000
+TRX2025194,2024-02-11,Jakarta Selatan,Minuman,Teh Herbal,8,46500,5,Tunai,3.9,353400
+TRX2024421,2024-09-29,Depok,Kerajinan,Batik Tulis,14,105500,10,Transfer,4.7,1329300
+TRX2024763,2024-10-18,Tangerang Selatan,Minuman,Kopi Bubuk,2,31500,20,E-Wallet,3.8,50400
+TRX2024131,2024-07-10,Depok,Makanan,Keripik Singkong,12,31500,15,Transfer,4.4,321300
+TRX2024985,2024-06-18,Jakarta Selatan,Kerajinan,Tas Anyaman,12,136000,5,QRIS,4.2,1550400
+TRX2024581,2024-02-25,Depok,Fashion,Kaos Lokal,8,122500,0,QRIS,4.1,980000
+TRX2024845,2024-12-19,Bogor,Makanan,Sambal Roa,6,33000,15,Transfer,4.0,168300
+TRX2024522,2024-09-27,Jakarta Selatan,Minuman,Sirup Markisa,6,45000,0,Tunai,4.2,270000
+TRX2024913,2024-08-12,Jakarta Selatan,Minuman,Kopi Bubuk,3,52500,10,Transfer,4.5,141750
+TRX2024678,2024-09-26,Bogor,Makanan,Sambal Roa,10,31000,0,Tunai,4.3,310000
+TRX2024376,2024-01-02,Bekasi,Fashion,Kemeja Tenun,11,136500,10,E-Wallet,,1351350
+TRX2024563,2024-07-12,Bogor,Makanan,Keripik Singkong,6,26000,0,QRIS,3.5,156000
+TRX2024586,2024-05-28,Tangerang Selatan,Fashion,Kemeja Tenun,12,143000,0,QRIS,4.6,1716000
+TRX2024668,2024-03-27,Bekasi,Kerajinan,Batik Tulis,6,141500,5,E-Wallet,5.0,806550
+TRX2024995,2024-04-01,Bekasi,Makanan,Keripik Singkong,4,38000,5,E-Wallet,4.8,144400
+TRX2025189,2024-08-22,Bogor,Kerajinan,Gerabah Hias,3,146000,15,QRIS,4.2,372300
+TRX2024243,2024-06-24,Jakarta Selatan,Kerajinan,Batik Tulis,6,190000,20,,3.2,912000
+TRX2024963,2024-04-08,Jakarta Selatan,Kerajinan,Batik Tulis,7,174500,0,Transfer,4.6,1221500
+TRX2024591,2024-09-05,Depok,Makanan,Rendang Kemasan,13,21000,5,Transfer,4.4,259350
+TRX2025078,2024-08-27,Depok,Makanan,Kue Kering,14,38000,0,Transfer,4.2,532000
+TRX2025192,2024-03-11,Jakarta Selatan,Minuman,Teh Herbal,9,48000,15,Transfer,5.0,367200
+TRX2024956,2024-11-03,Jakarta Selatan,Kerajinan,Batik Tulis,9,139000,0,Transfer,4.2,1251000
+TRX2024355,2024-08-17,Tangerang Selatan,Kerajinan,Gerabah Hias,7,99000,10,E-Wallet,3.9,623700
+TRX2024293,2024-01-04,JAKARTA SELATAN,Minuman,Kopi Bubuk,2,39500,20,E-Wallet,4.3,63200
+TRX2024869,2024-01-01,Jakarta Selatan,Minuman,Sirup Markisa,14,55000,0,Tunai,3.7,770000
+TRX2024506,2024-07-06,Jakarta Selatan,Kerajinan,Gerabah Hias,7,184500,10,Tunai,4.2,1162350
+TRX2024514,2024-06-10,Depok,Fashion,Hijab Motif,9,128500,0,QRIS,3.4,1156500
+TRX2025177,2024-05-21,Tangerang Selatan,Kerajinan,Gerabah Hias,5,142500,0,Tunai,4.2,712500
+TRX2024377,2024-11-29,Jakarta Selatan,Kerajinan,Batik Tulis,11,139000,20,Transfer,4.8,1223200
+TRX2024636,2024-12-08,Bogor,Makanan,Keripik Singkong,10,20500,5,,5.0,194750
+TRX2024416,2024-06-22,Bogor,Minuman,Kopi Bubuk,10,44000,0,Transfer,4.5,440000
+TRX2024760,2024-08-12,Bogor,Makanan,Kue Kering,5,20500,20,QRIS,4.8,82000
+TRX2024193,2024-02-19,Jakarta Selatan,Kerajinan,Tas Anyaman,6,155000,0,Transfer,3.2,930000
+TRX2024065,2024-07-17,Bogor,Minuman,Teh Herbal,3,54000,0,Tunai,4.0,162000
+TRX2024675,2024-08-01,Bekasi,Makanan,Keripik Singkong,1,28500,10,QRIS,3.5,25650
+TRX2024614,2024-10-03,Bekasi,Fashion,Hijab Motif,12,140500,0,Transfer,5.0,1686000
+TRX2024216,2024-03-03,Depok,Minuman,Kopi Bubuk,13,49000,10,Transfer,,573300
+TRX2024080,2024-11-18,Bekasi,Makanan,Sambal Roa,6,30500,0,Transfer,4.4,183000
+TRX2024266,2024-12-02,Bekasi,Minuman,Kopi Bubuk,14,55500,20,QRIS,3.5,621600
+TRX2025166,2024-11-04,Jakarta Selatan,Fashion,Kaos Lokal,2,146000,20,Tunai,4.1,233600
+TRX2024650,2024-10-29,Jakarta Selatan,Minuman,Teh Herbal,5,52500,0,E-Wallet,4.4,262500
+TRX2024902,2024-02-04,Jakarta Selatan,Kerajinan,Batik Tulis,13,182500,20,QRIS,4.1,1898000
+TRX2025181,2024-02-09,Bogor,Kerajinan,Tas Anyaman,4,96000,0,Transfer,3.5,384000
+TRX2025195,2024-11-15,Bekasi,Minuman,Teh Herbal,8,49000,20,Transfer,4.4,313600
+TRX2024083,2024-02-22,Depok,Fashion,Hijab Motif,7,99000,10,QRIS,3.7,623700
+TRX2024929,2024-06-04,Bogor,Minuman,Kopi Bubuk,2,35500,20,QRIS,5.0,56800
+TRX2025150,2024-04-23,Bogor,Fashion,Kemeja Tenun,3,122500,0,QRIS,3.9,367500
+TRX2024665,2024-05-29,Depok,Kerajinan,Gerabah Hias,2,106500,0,E-Wallet,3.7,213000
+TRX2024437,2024-01-05,Jakarta Selatan,Kerajinan,Batik Tulis,11,179000,20,Tunai,4.8,1575200
+TRX2024984,2024-12-03,Bogor,Kerajinan,Tas Anyaman,11,181000,0,QRIS,4.6,1991000
+TRX2024004,2024-05-14,Jakarta Selatan,Makanan,Sambal Roa,10,34500,20,,4.6,276000
+TRX2024941,2024-09-21,Jakarta Selatan,Minuman,Kopi Bubuk,2,55500,0,E-Wallet,4.7,111000
+TRX2024955,2024-01-30,Bogor,Makanan,Sambal Roa,12,26000,10,E-Wallet,2.5,280800
+TRX2024587,2024-08-21,Bogor,Minuman,Teh Herbal,12,53000,15,Transfer,4.1,540600
+TRX2025035,2024-03-25,Jakarta Selatan,Makanan,Kue Kering,4,34000,15,Tunai,4.9,115600
+TRX2024304,2024-02-14,Bekasi,Kerajinan,Batik Tulis,13,137500,15,QRIS,3.7,1519375
+TRX2024126,2024-06-22,Tangerang Selatan,Fashion,Hijab Motif,4,83500,15,QRIS,4.7,283900
+TRX2025178,2024-10-09,Jakarta Selatan,Makanan,Kue Kering,6,34500,20,Transfer,3.5,165600
+TRX2024139,2024-10-30,Jakarta Selatan,Kerajinan,Batik Tulis,7,110500,20,QRIS,5.0,618800
+TRX2024001,2024-07-02,Tangerang Selatan,Kerajinan,Batik Tulis,2,139000,0,Tunai,4.9,278000
+TRX2024081,2024-04-21,Bekasi,Fashion,Kemeja Tenun,8,145000,10,QRIS,3.7,1044000
+TRX2024719,2024-07-19,Bogor,Minuman,Sirup Markisa,2,50500,0,Transfer,3.2,101000
+TRX2024873,2024-11-02,Tangerang Selatan,Kerajinan,Tas Anyaman,4,127500,0,QRIS,4.0,510000
+TRX2024263,2024-02-27,Bekasi,Makanan,Keripik Singkong,13,30000,15,E-Wallet,3.0,331500
+TRX2025098,2024-10-02,Jakarta Selatan,Makanan,Keripik Singkong,8,36500,15,QRIS,5.0,248200
+TRX2024349,2024-10-11,Depok,Minuman,Sirup Markisa,8,44500,0,Transfer,2.8,356000
+TRX2024716,2024-04-23,Depok,Fashion,Kaos Lokal,1,115500,10,E-Wallet,3.2,103950
+TRX2024870,2024-07-23,Bekasi,Makanan,Rendang Kemasan,4,39000,0,Transfer,4.2,156000
+TRX2024162,2024-03-27,Bekasi,Kerajinan,Gerabah Hias,6,126500,15,Transfer,4.1,645150
+TRX2024051,2024-09-20,Bogor,Fashion,Hijab Motif,2,84500,0,Transfer,3.9,169000
+TRX2024031,2024-04-24,DEPOK,Makanan,Keripik Singkong,7,33000,20,E-Wallet,4.1,184800
+TRX2025108,2024-09-06,Depok,Fashion,Kemeja Tenun,10,140000,5,Tunai,4.2,1330000
+TRX2024175,2024-02-08,Depok,Makanan,Kue Kering,2,24000,0,QRIS,3.8,48000
+TRX2024169,2024-06-15,Depok,Fashion,Hijab Motif,14,142000,0,Tunai,4.0,1988000
+TRX2024632,2024-09-07,Jakarta Selatan,Fashion,Kemeja Tenun,2,110500,0,Transfer,4.4,221000
+TRX2024526,2024-09-29,Depok,Makanan,Rendang Kemasan,1,28500,20,Transfer,4.9,22800
+TRX2024238,2024-01-21,Bogor,Fashion,Kaos Lokal,11,109500,20,Tunai,4.5,963600
+TRX2025083,2024-05-19,Jakarta Selatan,Kerajinan,Tas Anyaman,11,160000,0,E-Wallet,3.8,1760000
+TRX2024779,2024-01-21,Depok,Fashion,Hijab Motif,3,127500,0,Transfer,4.8,382500
+TRX2024812,2024-10-11,Bogor,Minuman,Sirup Markisa,13,51500,0,Tunai,4.4,669500
+TRX2024649,2024-07-25,Bekasi,Makanan,Kue Kering,12,23000,10,QRIS,,248400
+TRX2024468,2024-09-23,Jakarta Selatan,Minuman,Teh Herbal,5,48000,10,Transfer,5.0,216000
+TRX2024221,2024-01-09,Tangerang Selatan,Fashion,Kemeja Tenun,7,124500,20,Tunai,4.1,697200
+TRX2024099,2024-01-23,Bekasi,Makanan,Rendang Kemasan,13,25500,5,Tunai,4.7,314925
+TRX2024774,2024-01-28,Bekasi,Makanan,Keripik Singkong,14,23000,0,E-Wallet,5.0,322000
+TRX2024835,2024-03-19,Bogor,Kerajinan,Batik Tulis,11,108000,0,QRIS,3.1,1188000
+TRX2024314,2024-04-25,Jakarta Selatan,Makanan,Sambal Roa,14,29000,20,E-Wallet,4.9,324800
+TRX2024805,2024-10-13,Jakarta Selatan,Fashion,Hijab Motif,12,86000,15,QRIS,4.1,877200
+TRX2024132,2024-08-08,Depok,Kerajinan,Tas Anyaman,11,115500,20,E-Wallet,3.4,1016400
+TRX2024324,2024-11-24,Bogor,Minuman,Teh Herbal,6,33000,0,QRIS,3.6,198000
+TRX2024007,2024-06-21,Bekasi,Makanan,Kue Kering,12,33000,10,,3.8,356400
+TRX2024206,2024-02-16,Depok,Minuman,Teh Herbal,13,54500,0,QRIS,4.8,708500
+TRX2025153,2024-01-14,Bogor,Makanan,Sambal Roa,3,34500,15,QRIS,4.1,87975
+TRX2024427,2024-05-25,Bogor,Makanan,Rendang Kemasan,11,21500,15,QRIS,5.0,201025
+TRX2024204,2024-01-15,Depok,Minuman,Teh Herbal,14,55000,0,QRIS,3.9,770000
+TRX2024679,2024-10-15,Jakarta Selatan,Makanan,Keripik Singkong,7,20000,0,QRIS,4.0,140000
+TRX2024673,2024-08-21,Tangerang Selatan,Makanan,Rendang Kemasan,13,26500,0,Tunai,4.6,344500
+TRX2024820,2024-10-27,Jakarta Selatan,Fashion,Kemeja Tenun,11,146500,5,Transfer,3.0,1530925
+TRX2024753,2024-05-24,Bekasi,Makanan,Sambal Roa,7,37000,10,Transfer,3.6,233100
+TRX2024028,2024-07-01,Depok,Makanan,Kue Kering,11,39000,5,QRIS,,407550
+TRX2024668,2024-03-27,Bekasi,Kerajinan,Batik Tulis,6,141500,5,E-Wallet,5.0,806550
+TRX2024381,2024-02-01,Depok,Kerajinan,Batik Tulis,12,110500,10,Tunai,5.0,1193400
+TRX2024689,2024-01-03,Depok,Makanan,Sambal Roa,7,27500,0,Tunai,4.1,192500
+TRX2024189,2024-10-16,Depok,Minuman,Kopi Bubuk,14,54500,15,,4.2,648550
+TRX2024108,2024-02-26,Bogor,Makanan,Kue Kering,3,20500,0,QRIS,4.9,61500
+TRX2024947,2024-10-14,Bekasi,Minuman,Sirup Markisa,6,44500,20,Transfer,3.5,213600
+TRX2024832,2024-09-15,Bekasi,Fashion,Hijab Motif,14,92500,0,E-Wallet,3.3,1295000
+TRX2024637,2024-11-19,Bekasi,Kerajinan,Batik Tulis,14,140000,10,QRIS,5.0,1764000
+TRX2024458,2024-01-13,Bogor,Makanan,Kue Kering,4,36000,15,QRIS,4.4,122400
+TRX2024022,2024-12-09,Depok,Makanan,Keripik Singkong,10,34500,15,E-Wallet,3.5,293250
+TRX2024616,2024-11-16,Bekasi,Makanan,Sambal Roa,14,21000,5,QRIS,4.3,279300
+TRX2025095,2024-09-02,Depok,Makanan,Rendang Kemasan,9,26000,15,Transfer,4.4,198900
+TRX2025101,2024-01-14,Jakarta Selatan,Kerajinan,Tas Anyaman,7,104500,5,Transfer,4.7,694925
+TRX2024555,2024-07-04,Bekasi,Kerajinan,Tas Anyaman,8,131500,10,E-Wallet,4.3,946800
+TRX2024997,2024-02-13,Depok,Fashion,Hijab Motif,7,137500,0,Transfer,3.9,962500
+TRX2024093,2024-09-05,Jakarta Selatan,Makanan,Sambal Roa,13,23500,0,Tunai,4.6,305500
+TRX2024224,2024-02-13,Jakarta Selatan,Kerajinan,Gerabah Hias,14,179500,20,Transfer,4.1,2010400
+TRX2025011,2024-12-25,Jakarta Selatan,Makanan,Rendang Kemasan,1,32500,5,QRIS,,30875
+TRX2024976,2024-05-01,Tangerang Selatan,Makanan,Sambal Roa,4,22000,0,QRIS,4.6,88000
+TRX2024674,2024-08-03,Depok,Makanan,Rendang Kemasan,2,32500,0,Tunai,3.9,65000
+TRX2024378,2024-11-29,Depok,Makanan,Rendang Kemasan,12,27500,0,Transfer,3.6,330000
+TRX2024890,2024-12-27,Depok,Makanan,Rendang Kemasan,13,38000,10,Transfer,3.8,444600
+TRX2025043,2024-01-31,Jakarta Selatan,Makanan,Sambal Roa,6,24000,20,Tunai,4.3,115200
+TRX2025036,2024-09-21,Depok,Kerajinan,Tas Anyaman,11,104000,0,E-Wallet,4.4,1144000
+TRX2024477,2024-04-19,Bogor,Makanan,Keripik Singkong,5,29500,0,,4.7,147500
+TRX2024370,2024-06-18,Depok,Kerajinan,Batik Tulis,1,109500,10,Tunai,3.2,98550
+TRX2024761,2024-10-06,Tangerang Selatan,Kerajinan,Gerabah Hias,11,159500,0,Tunai,4.0,1754500
+TRX2024328,2024-08-14,Depok,Minuman,Kopi Bubuk,9,53000,20,Transfer,4.1,381600
+TRX2024178,2024-09-10,Tangerang Selatan,Fashion,Hijab Motif,11,138000,5,QRIS,4.5,1442100
+TRX2024977,2024-09-12,Bogor,Minuman,Kopi Bubuk,5,42000,0,Transfer,3.7,210000
+TRX2024070,2024-07-11,Jakarta Selatan,Minuman,Kopi Bubuk,7,45500,0,Tunai,4.3,318500
+TRX2025114,2024-02-28,Bogor,Makanan,Rendang Kemasan,12,23500,20,QRIS,4.9,225600
+TRX2024588,2024-01-29,Bogor,Minuman,Teh Herbal,1,42000,15,Tunai,4.1,35700
+TRX2024606,2024-07-05,Bogor,Fashion,Hijab Motif,13,97500,15,Transfer,4.5,1077375
+TRX2024663,2024-02-29,Bogor,Kerajinan,Gerabah Hias,13,139500,0,Transfer,4.7,1813500
+TRX2024128,2024-03-26,Depok,Kerajinan,Gerabah Hias,7,106500,0,Tunai,4.2,745500
+TRX2024128,2024-03-26,Depok,Kerajinan,Gerabah Hias,7,106500,0,Tunai,4.2,745500
+TRX2024854,2024-08-05,Depok,Kerajinan,Batik Tulis,7,107000,5,QRIS,3.2,711550
+TRX2024048,2024-03-02,Bogor,Fashion,Hijab Motif,2,148500,15,Tunai,3.8,252450
+TRX2024439,2024-10-19,Bekasi,Makanan,Rendang Kemasan,7,30500,20,E-Wallet,3.0,170800
+TRX2024478,2024-04-10,Bogor,Kerajinan,Gerabah Hias,5,129000,10,QRIS,4.0,580500
+TRX2024087,2024-12-18,Tangerang Selatan,Makanan,Rendang Kemasan,1,35500,5,Transfer,3.1,33725
+TRX2024447,2024-05-28,Bekasi,Fashion,Kaos Lokal,1,138500,10,Tunai,5.0,124650
+TRX2024709,2024-03-14,Bogor,Makanan,Kue Kering,3,26000,0,QRIS,4.0,78000
+TRX2025104,2024-11-03,Tangerang Selatan,Makanan,Rendang Kemasan,5,31000,0,QRIS,4.1,155000
+TRX2025012,2024-10-11,Tangerang Selatan,Minuman,Sirup Markisa,10,42500,15,Transfer,3.7,361250
+TRX2025073,2024-03-18,Tangerang Selatan,Makanan,Rendang Kemasan,14,27500,10,Transfer,3.9,346500
+TRX2024130,2024-09-28,Bogor,Minuman,Teh Herbal,2,51500,10,QRIS,,92700
+TRX2025148,2024-11-08,Tangerang Selatan,Makanan,Keripik Singkong,2,28000,0,Transfer,4.5,56000
+TRX2024270,2024-01-09,Depok,Makanan,Kue Kering,9,20000,15,Tunai,4.6,153000
+TRX2024327,2024-03-28,Jakarta Selatan,Fashion,Kaos Lokal,11,111500,5,QRIS,4.4,1165175
+TRX2024759,2024-04-12,Bogor,Makanan,Rendang Kemasan,3,27000,15,Tunai,3.9,68850
+TRX2024787,2024-11-02,Bekasi,Makanan,Rendang Kemasan,12,30000,0,Tunai,4.3,360000
+TRX2025109,2024-02-27,Depok,Makanan,Kue Kering,6,32500,15,E-Wallet,4.2,165750
+TRX2025049,2024-01-26,Bogor,Makanan,Keripik Singkong,12,30500,15,QRIS,3.6,311100
+TRX2025187,2024-03-19,Bogor,Minuman,Teh Herbal,11,32500,5,Transfer,3.4,339625
+TRX2024730,2024-08-29,Jakarta Selatan,Fashion,Kaos Lokal,5,89000,0,E-Wallet,,445000
+TRX2024155,2024-08-28,Bekasi,Minuman,Teh Herbal,6,34000,15,QRIS,4.2,173400
+TRX2025149,2024-02-05,Depok,Makanan,Rendang Kemasan,7,39500,5,QRIS,3.5,262675
+TRX2024713,2024-12-20,DEPOK,Makanan,Sambal Roa,8,24000,15,QRIS,4.1,163200
+TRX2024558,2024-04-01,Bekasi,Fashion,Kaos Lokal,3,118500,5,QRIS,4.0,337725
+TRX2024855,2024-02-05,Bekasi,Kerajinan,Gerabah Hias,12,171000,20,Tunai,4.3,1641600
+TRX2024030,2024-10-29,Depok,Kerajinan,Tas Anyaman,11,166500,0,E-Wallet,3.9,1831500
+TRX2024578,2024-09-26,TANGERANG SELATAN,Makanan,Keripik Singkong,12,25500,10,QRIS,4.4,275400
+TRX2024352,2024-02-28,Tangerang Selatan,Makanan,Kue Kering,3,23500,0,Transfer,5.0,70500
+TRX2024866,2024-07-09,DEPOK,Makanan,Kue Kering,2,36000,5,QRIS,4.7,68400
+TRX2024766,2024-04-09,BEKASI,Kerajinan,Gerabah Hias,11,114000,0,QRIS,4.7,1254000
+TRX2024194,2024-03-08,Tangerang Selatan,Makanan,Sambal Roa,3,26500,0,Transfer,4.4,79500
+TRX2025131,2024-06-12,BOGOR,Fashion,Kaos Lokal,6,97500,20,Tunai,4.3,468000
+TRX2025080,2024-12-03,Bekasi,Minuman,Kopi Bubuk,6,53000,15,Tunai,4.3,270300
+TRX2025065,2024-05-25,Depok,Kerajinan,Batik Tulis,5,171500,0,QRIS,4.4,857500
+TRX2024898,2024-02-20,Jakarta Selatan,Kerajinan,Tas Anyaman,14,110500,10,Transfer,5.0,1392300
+TRX2024179,2024-12-01,Depok,Makanan,Rendang Kemasan,14,31500,15,E-Wallet,3.5,374850
+TRX2025169,2024-01-29,Bekasi,Kerajinan,Gerabah Hias,9,118500,0,Transfer,4.6,1066500
+TRX2025126,2024-12-02,Tangerang Selatan,Makanan,Sambal Roa,6,37000,20,E-Wallet,5.0,177600
+TRX2025066,2024-02-02,Tangerang Selatan,Fashion,Kemeja Tenun,14,133500,0,Tunai,5.0,1869000
+TRX2024010,2024-11-09,Depok,Fashion,Kaos Lokal,4,80000,0,Tunai,,320000
+TRX2024354,2024-12-07,Bogor,Minuman,Kopi Bubuk,1,53500,20,Transfer,4.6,42800
+TRX2024067,2024-10-14,Bogor,Makanan,Keripik Singkong,5,28500,10,Transfer,3.7,128250
+TRX2024833,2024-08-16,Bogor,Makanan,Kue Kering,4,20500,15,,4.7,69700
+TRX2024209,2024-01-12,Jakarta Selatan,Makanan,Sambal Roa,7,30000,5,E-Wallet,3.5,199500
+TRX2024145,2024-09-18,Bekasi,Kerajinan,Tas Anyaman,5,186500,0,Transfer,4.4,932500
+TRX2024423,2024-09-05,Bogor,Minuman,Teh Herbal,12,46000,10,E-Wallet,2.9,496800
+TRX2024852,2024-07-14,Jakarta Selatan,Makanan,Sambal Roa,1,27500,20,QRIS,3.3,22000
+TRX2024950,2024-08-25,Jakarta Selatan,Makanan,Rendang Kemasan,7,37500,0,Tunai,4.1,262500
+TRX2024861,2024-02-25,Bekasi,Makanan,Rendang Kemasan,8,28500,5,QRIS,4.3,216600
+TRX2024778,2024-12-07,Depok,Kerajinan,Tas Anyaman,12,109500,5,Tunai,3.8,1248300
+TRX2024092,2024-10-12,Depok,Makanan,Rendang Kemasan,12,26500,15,Transfer,4.0,270300
+TRX2025063,2024-12-27,Jakarta Selatan,Kerajinan,Tas Anyaman,9,113000,15,,4.1,864450
+TRX2024214,2024-05-07,Depok,Minuman,Teh Herbal,4,48500,0,Tunai,2.8,194000
+TRX2024359,2024-04-03,Bogor,Fashion,Kaos Lokal,13,139000,10,Tunai,4.7,1626300
+TRX2024991,2024-12-07,Bogor,Minuman,Teh Herbal,6,30500,5,QRIS,5.0,173850
+TRX2024837,2024-09-17,Jakarta Selatan,Makanan,Keripik Singkong,4,35500,20,QRIS,4.1,113600
+TRX2024195,2024-12-28,Bogor,Fashion,Kaos Lokal,2,125500,20,Transfer,4.5,200800
+TRX2024296,2024-07-04,Jakarta Selatan,Makanan,Sambal Roa,10,25000,0,Tunai,3.7,250000
+TRX2025055,2024-05-16,Depok,Makanan,Keripik Singkong,9,33000,15,E-Wallet,5.0,252450
+TRX2024386,2024-05-27,Bogor,Makanan,Rendang Kemasan,8,39500,0,Transfer,,316000
+TRX2024389,2024-02-04,Depok,Makanan,Keripik Singkong,8,34000,10,E-Wallet,4.9,244800
+TRX2024932,2024-01-31,Depok,Makanan,Rendang Kemasan,13,24500,15,QRIS,4.2,270725
+TRX2024360,2024-03-04,Jakarta Selatan,Makanan,Keripik Singkong,14,31500,15,QRIS,4.1,374850
+TRX2024988,2024-12-17,Bekasi,Minuman,Teh Herbal,8,44500,0,Tunai,4.8,356000
+TRX2024843,2024-06-23,Bekasi,Kerajinan,Gerabah Hias,5,149500,0,E-Wallet,4.2,747500
+TRX2025146,2024-10-08,Bogor,Kerajinan,Gerabah Hias,13,163000,20,Transfer,,1695200
+TRX2025100,2024-02-24,Depok,Makanan,Kue Kering,10,28500,0,,4.1,285000
+TRX2024188,2024-01-22,Depok,Fashion,Hijab Motif,6,118500,0,Tunai,2.9,711000
+TRX2024445,2024-03-26,Depok,Kerajinan,Gerabah Hias,14,136500,20,QRIS,4.9,1528800
+TRX2024086,2024-02-26,Bekasi,Kerajinan,Batik Tulis,14,190500,0,Tunai,3.9,2667000
+TRX2024034,2024-10-07,Bekasi,Kerajinan,Batik Tulis,4,146500,10,Tunai,3.9,527400
+TRX2024199,2024-07-06,Tangerang Selatan,Fashion,Kaos Lokal,5,90000,0,QRIS,,450000
+TRX2024521,2024-04-01,Depok,Fashion,Kaos Lokal,10,94000,0,QRIS,4.2,940000
+TRX2025170,2024-05-03,Tangerang Selatan,Kerajinan,Gerabah Hias,5,171000,0,QRIS,4.3,855000
+TRX2024527,2024-03-29,Jakarta Selatan,Makanan,Keripik Singkong,3,26500,10,Tunai,4.8,71550
+TRX2024347,2024-09-09,Jakarta Selatan,Fashion,Kemeja Tenun,3,91000,5,Transfer,3.9,259350
+TRX2024552,2024-04-14,Depok,Fashion,Kemeja Tenun,10,111000,20,E-Wallet,3.6,888000
+TRX2024045,2024-11-08,JAKARTA SELATAN,Makanan,Kue Kering,14,38000,5,Transfer,5.0,505400
+TRX2024488,2024-11-25,Depok,Kerajinan,Gerabah Hias,8,149500,20,QRIS,3.9,956800
+TRX2025014,2024-11-04,Jakarta Selatan,Fashion,Hijab Motif,5,110500,15,Transfer,4.1,469625
+TRX2024794,2024-08-05,Bogor,Kerajinan,Batik Tulis,10,132500,0,Tunai,3.6,1325000
+TRX2024472,2024-04-29,Jakarta Selatan,Makanan,Keripik Singkong,2,26000,0,Tunai,,52000
+TRX2024818,2024-03-25,Jakarta Selatan,Fashion,Kemeja Tenun,14,149500,0,Tunai,4.2,2093000
+TRX2024583,2024-06-09,Jakarta Selatan,Fashion,Kemeja Tenun,5,126000,5,E-Wallet,4.4,598500
+TRX2024000,2024-02-01,Depok,Kerajinan,Batik Tulis,7,178000,10,E-Wallet,4.3,1121400
+TRX2024681,2024-02-20,Jakarta Selatan,Makanan,Sambal Roa,11,22500,10,QRIS,4.4,222750
+TRX2024540,2024-08-23,Depok,Kerajinan,Batik Tulis,10,170500,0,QRIS,3.7,1705000
+TRX2025089,2024-03-16,Bekasi,Minuman,Sirup Markisa,1,33500,15,,4.4,28475
+TRX2024448,2024-04-20,Depok,Makanan,Rendang Kemasan,1,31500,0,QRIS,3.5,31500
+TRX2024712,2024-08-27,Bogor,Makanan,Kue Kering,1,28500,15,Tunai,4.1,24225
+TRX2024592,2024-01-12,Depok,Fashion,Kaos Lokal,6,124500,0,Transfer,4.1,747000
+TRX2025180,2024-02-09,Depok,Makanan,Kue Kering,11,38500,5,Tunai,3.8,402325
+TRX2024101,2024-04-26,Jakarta Selatan,Minuman,Kopi Bubuk,2,46000,20,Transfer,4.8,73600
+TRX2024431,2024-05-20,Tangerang Selatan,Kerajinan,Batik Tulis,1,120000,0,Tunai,5.0,120000
+TRX2024039,2024-10-17,Depok,Makanan,Kue Kering,8,37500,15,QRIS,5.0,255000
+TRX2024487,2024-05-09,Depok,Kerajinan,Tas Anyaman,6,110500,5,E-Wallet,4.5,629850
+TRX2024016,2024-06-29,Jakarta Selatan,Makanan,Rendang Kemasan,12,35000,15,Tunai,5.0,357000
+TRX2024736,2024-09-29,Depok,Minuman,Sirup Markisa,12,29000,0,QRIS,4.2,348000
+TRX2024811,2024-01-17,Depok,Fashion,Kemeja Tenun,1,138500,0,Tunai,4.3,138500
+TRX2024148,2024-12-09,Depok,Makanan,Kue Kering,3,35500,20,Tunai,4.2,85200
+TRX2025115,2024-04-03,Bekasi,Minuman,Teh Herbal,5,35000,15,QRIS,4.2,148750
+TRX2024177,2024-10-02,Depok,Fashion,Kaos Lokal,14,83500,0,Tunai,3.5,1169000
+TRX2024136,2024-03-07,Jakarta Selatan,Minuman,Teh Herbal,2,31500,20,E-Wallet,4.4,50400
+TRX2024336,2024-10-06,Jakarta Selatan,Fashion,Kaos Lokal,10,128000,0,Transfer,4.0,1280000
+TRX2024729,2024-08-01,Jakarta Selatan,Minuman,Kopi Bubuk,8,43000,0,QRIS,4.5,344000
+TRX2024118,2024-02-24,Jakarta Selatan,Minuman,Kopi Bubuk,11,55500,0,QRIS,3.9,610500
+TRX2024593,2024-04-20,Depok,Minuman,Sirup Markisa,14,47500,20,Tunai,3.9,532000
+TRX2024717,2024-03-21,Jakarta Selatan,Fashion,Hijab Motif,11,94000,0,,3.4,1034000
+TRX2025124,2024-05-11,Bogor,Makanan,Kue Kering,14,26000,0,E-Wallet,3.8,364000
+TRX2024667,2024-09-24,Bekasi,Fashion,Hijab Motif,11,111500,0,E-Wallet,4.0,1226500
+TRX2024064,2024-05-17,Jakarta Selatan,Makanan,Rendang Kemasan,2,23500,20,Tunai,4.1,37600
+TRX2024841,2024-07-26,Bogor,Makanan,Kue Kering,2,39000,0,QRIS,4.3,78000
+TRX2024612,2024-03-15,Bogor,Fashion,Kaos Lokal,5,76500,0,QRIS,4.0,382500
+TRX2024112,2024-05-20,Depok,Makanan,Kue Kering,1,26500,0,Tunai,5.0,26500
+TRX2024192,2024-12-10,Jakarta Selatan,Makanan,Sambal Roa,13,20000,5,Tunai,3.7,247000
+TRX2024752,2024-03-06,Bogor,Makanan,Kue Kering,3,22000,15,QRIS,3.1,56100
+TRX2024393,2024-02-02,Bekasi,Makanan,Sambal Roa,14,28500,10,E-Wallet,4.4,359100
+TRX2024644,2024-09-03,JAKARTA SELATAN,Kerajinan,Gerabah Hias,4,148500,15,Tunai,3.3,504900
+TRX2024992,2024-09-14,Tangerang Selatan,Minuman,Sirup Markisa,11,38000,0,Transfer,4.1,418000
+TRX2024505,2024-08-24,Jakarta Selatan,Makanan,Keripik Singkong,12,37000,5,Transfer,4.9,421800
+TRX2024720,2024-11-27,Depok,Makanan,Sambal Roa,3,23000,0,E-Wallet,4.1,69000
+TRX2024703,2024-08-18,Bogor,Fashion,Kemeja Tenun,1,121000,20,E-Wallet,3.8,96800
+TRX2024041,2024-09-09,Bekasi,Kerajinan,Tas Anyaman,1,184500,0,E-Wallet,3.5,184500
+TRX2024211,2024-04-13,Depok,Fashion,Kaos Lokal,7,144000,5,E-Wallet,4.1,957600
+TRX2024186,2024-08-13,Bogor,Fashion,Hijab Motif,9,76000,0,Transfer,4.1,684000
+TRX2024124,2024-05-20,Bogor,Makanan,Rendang Kemasan,9,31500,0,E-Wallet,3.9,283500
+TRX2024358,2024-10-22,Bogor,Makanan,Rendang Kemasan,3,31000,0,E-Wallet,,93000
+TRX2024152,2024-11-09,Jakarta Selatan,Fashion,Hijab Motif,12,100000,5,Tunai,3.7,1140000
+TRX2024297,2024-04-07,Tangerang Selatan,Makanan,Keripik Singkong,12,31000,0,QRIS,4.7,372000
+TRX2024456,2024-03-18,Depok,Minuman,Kopi Bubuk,1,29500,0,Transfer,4.8,29500
+TRX2025053,2024-05-10,Jakarta Selatan,Fashion,Kaos Lokal,11,116500,0,Transfer,3.7,1281500
+TRX2024246,2024-07-11,Bekasi,Makanan,Rendang Kemasan,11,25000,20,E-Wallet,3.5,220000
+TRX2024005,2024-04-30,Bogor,Makanan,Rendang Kemasan,2,29500,0,Transfer,4.5,59000
+TRX2024718,2024-12-19,Tangerang Selatan,Fashion,Kemeja Tenun,4,139000,0,QRIS,4.6,556000
+TRX2024046,2024-10-07,Depok,Kerajinan,Tas Anyaman,12,147000,10,Tunai,3.5,1587600
+TRX2024301,2024-10-28,Depok,Makanan,Kue Kering,4,25000,0,QRIS,4.2,100000
+TRX2024610,2024-04-04,Depok,Fashion,Hijab Motif,9,82000,0,Transfer,3.7,738000
+TRX2024410,2024-05-29,Tangerang Selatan,Makanan,Rendang Kemasan,8,24000,0,QRIS,4.2,192000
+TRX2025013,2024-08-23,Tangerang Selatan,Makanan,Rendang Kemasan,10,27500,0,E-Wallet,4.7,275000
+TRX2024886,2024-03-24,Jakarta Selatan,Makanan,Kue Kering,7,26000,5,E-Wallet,2.9,172900
+TRX2024827,2024-07-04,Bogor,Minuman,Sirup Markisa,2,47000,15,Tunai,4.7,79900
+TRX2024682,2024-12-31,Jakarta Selatan,Fashion,Kemeja Tenun,5,89500,0,E-Wallet,4.3,447500
+TRX2024815,2024-04-23,Depok,Kerajinan,Gerabah Hias,5,183000,0,E-Wallet,3.8,915000
+TRX2025081,2024-05-27,Tangerang Selatan,Makanan,Sambal Roa,10,28000,10,E-Wallet,4.1,252000
+TRX2024710,2024-04-07,Jakarta Selatan,Makanan,Rendang Kemasan,1,37000,10,Transfer,3.6,33300
+TRX2024927,2024-11-27,Depok,Makanan,Keripik Singkong,7,34500,10,QRIS,4.7,217350
+TRX2024879,2024-08-04,Jakarta Selatan,Minuman,Kopi Bubuk,14,47500,0,Transfer,4.0,665000
+TRX2024733,2024-08-26,Depok,Kerajinan,Tas Anyaman,2,141000,0,QRIS,4.8,282000
+TRX2024312,2024-04-17,Bogor,Kerajinan,Tas Anyaman,1,145000,0,QRIS,3.6,145000
+TRX2024264,2024-08-21,Tangerang Selatan,Makanan,Rendang Kemasan,4,25000,10,E-Wallet,4.5,90000
+TRX2024387,2024-04-03,Bekasi,Makanan,Sambal Roa,6,23000,15,QRIS,4.0,117300
+TRX2024711,2024-07-25,Depok,Makanan,Kue Kering,7,27000,10,Tunai,4.4,170100
+TRX2024170,2024-05-20,Bogor,Kerajinan,Tas Anyaman,8,148500,15,,4.0,1009800
+TRX2024247,2024-10-18,Depok,Minuman,Teh Herbal,11,34500,0,E-Wallet,3.9,379500
+TRX2025028,2024-09-25,Jakarta Selatan,Makanan,Sambal Roa,10,22000,0,QRIS,5.0,220000
+TRX2024229,2024-11-03,Depok,Kerajinan,Batik Tulis,6,176000,0,Transfer,2.9,1056000
+TRX2024116,2024-12-23,Depok,Minuman,Kopi Bubuk,5,46500,15,Transfer,4.8,197625
+TRX2024562,2024-02-10,Bogor,Fashion,Kemeja Tenun,14,130000,0,E-Wallet,4.5,1820000
+TRX2025174,2024-07-08,Depok,Makanan,Rendang Kemasan,6,21000,0,Tunai,5.0,126000
+TRX2024420,2024-09-08,Depok,Fashion,Hijab Motif,8,101500,0,QRIS,3.8,812000
+TRX2024585,2024-11-13,Bekasi,Minuman,Teh Herbal,11,35500,10,QRIS,3.6,351450
+TRX2024751,2024-07-26,Tangerang Selatan,Minuman,Sirup Markisa,11,32500,15,QRIS,2.9,303875
+TRX2024792,2024-09-26,Bekasi,Makanan,Sambal Roa,10,23000,0,QRIS,4.5,230000
+TRX2024938,2024-12-27,Jakarta Selatan,Kerajinan,Batik Tulis,7,173000,20,QRIS,4.0,968800
+TRX2024928,2024-02-06,Tangerang Selatan,Minuman,Teh Herbal,1,34000,0,QRIS,4.0,34000
+TRX2024078,2024-03-11,Jakarta Selatan,Fashion,Hijab Motif,1,93500,0,Transfer,2.8,93500
+TRX2024109,2024-04-12,Bogor,Minuman,Sirup Markisa,12,28000,15,QRIS,4.0,285600
+TRX2024457,2024-11-07,JAKARTA SELATAN,Kerajinan,Gerabah Hias,9,110000,15,QRIS,4.4,841500
+TRX2024846,2024-03-02,Bogor,Kerajinan,Gerabah Hias,1,121000,0,Transfer,4.5,121000
+TRX2024111,2024-02-11,Depok,Kerajinan,Tas Anyaman,5,172500,10,Transfer,4.6,776250
+TRX2024603,2024-02-19,Jakarta Selatan,Kerajinan,Batik Tulis,11,175000,5,Tunai,4.1,1828750
+TRX2024550,2024-02-21,Depok,Makanan,Keripik Singkong,9,29000,0,QRIS,5.0,261000
+TRX2024762,2024-08-17,Jakarta Selatan,Kerajinan,Gerabah Hias,13,185000,10,Transfer,3.8,2164500
+TRX2025111,2024-12-21,Depok,Kerajinan,Gerabah Hias,5,186500,0,Transfer,3.7,932500
+TRX2024554,2024-11-15,Depok,Minuman,Sirup Markisa,5,39000,0,QRIS,4.0,195000
+TRX2024822,2024-05-12,Depok,Makanan,Sambal Roa,10,30500,15,E-Wallet,4.9,259250
+TRX2024975,2024-06-19,Depok,Fashion,Hijab Motif,6,129500,0,QRIS,4.7,777000
+TRX2024102,2024-01-19,Depok,Fashion,Hijab Motif,2,79000,0,Transfer,4.1,158000
+TRX2024454,2024-03-20,Jakarta Selatan,Makanan,Keripik Singkong,8,33500,10,Transfer,4.5,241200
+TRX2024943,2024-05-17,Bogor,Minuman,Teh Herbal,9,33500,10,QRIS,4.2,271350
+TRX2024756,2024-09-10,Jakarta Selatan,Makanan,Kue Kering,5,32500,0,QRIS,4.4,162500
+TRX2024726,2024-09-28,Jakarta Selatan,Makanan,Sambal Roa,1,32000,15,QRIS,4.4,27200
+TRX2024628,2024-04-16,Jakarta Selatan,Kerajinan,Gerabah Hias,8,97000,0,QRIS,3.9,776000
+TRX2024981,2024-02-07,Tangerang Selatan,Makanan,Kue Kering,3,23000,0,QRIS,5.0,69000
+TRX2024362,2024-07-20,Jakarta Selatan,Makanan,Sambal Roa,5,25500,5,Tunai,2.9,121125
+TRX2024633,2024-11-25,Bogor,Kerajinan,Batik Tulis,14,158500,10,QRIS,4.3,1997100
+TRX2024542,2024-11-17,Depok,Kerajinan,Gerabah Hias,8,109000,5,Transfer,4.4,828400
+TRX2024851,2024-02-19,Bekasi,Makanan,Keripik Singkong,10,30000,5,QRIS,4.8,285000
+TRX2024741,2024-09-29,Jakarta Selatan,Makanan,Rendang Kemasan,14,21000,0,QRIS,5.0,294000
+TRX2025102,2024-01-02,Bogor,Fashion,Kaos Lokal,12,120000,5,QRIS,3.8,1368000
+TRX2024623,2024-03-20,Bekasi,Minuman,Sirup Markisa,5,34000,5,E-Wallet,3.9,161500
+TRX2024475,2024-09-28,Depok,Makanan,Kue Kering,8,26500,15,QRIS,4.2,180200
+TRX2025087,2024-09-21,Jakarta Selatan,Minuman,Teh Herbal,6,28500,20,Tunai,3.8,136800
+TRX2024723,2024-05-11,TANGERANG SELATAN,Makanan,Rendang Kemasan,9,28000,0,Transfer,4.3,252000
+TRX2024671,2024-05-06,Jakarta Selatan,Makanan,Rendang Kemasan,9,30000,0,Transfer,4.3,270000
+TRX2024068,2024-12-02,Jakarta Selatan,Makanan,Kue Kering,9,26000,0,Transfer,4.9,234000
+TRX2024574,2024-01-16,Jakarta Selatan,Makanan,Kue Kering,12,27500,15,Tunai,4.2,280500
+TRX2025132,2024-05-17,Depok,Makanan,Sambal Roa,12,33500,0,QRIS,3.3,402000
+TRX2024565,2024-08-17,Depok,Minuman,Sirup Markisa,3,30000,0,QRIS,3.6,90000
+TRX2025002,2024-02-06,Tangerang Selatan,Makanan,Rendang Kemasan,2,24500,20,Transfer,4.9,39200
+TRX2025129,2024-01-19,Depok,Makanan,Kue Kering,3,32000,0,QRIS,3.4,96000
+TRX2024252,2024-12-09,Jakarta Selatan,Fashion,Kaos Lokal,9,115500,10,QRIS,3.4,935550
+TRX2024619,2024-06-29,Bogor,Makanan,Sambal Roa,10,21000,20,E-Wallet,4.8,168000
+TRX2024685,2024-09-21,Bogor,Minuman,Kopi Bubuk,1,34500,5,Transfer,3.1,32775
+TRX2024134,2024-07-14,Depok,Fashion,Kemeja Tenun,13,101500,5,QRIS,4.0,1253525
+TRX2024597,2024-09-06,Bekasi,Fashion,Hijab Motif,3,83500,0,QRIS,5.0,250500
+TRX2025004,2024-12-11,Jakarta Selatan,Makanan,Rendang Kemasan,12,22500,10,QRIS,4.3,243000
+TRX2024127,2024-06-15,Depok,Makanan,Rendang Kemasan,8,29000,0,Transfer,4.6,232000
+TRX2025097,2024-05-15,Jakarta Selatan,Makanan,Rendang Kemasan,10,28500,15,QRIS,3.9,242250
+TRX2024769,2024-05-23,Jakarta Selatan,Makanan,Sambal Roa,3,31000,15,QRIS,3.6,79050
+TRX2024237,2024-02-06,Bekasi,Makanan,Kue Kering,13,26000,10,QRIS,4.4,304200
+TRX2025091,2024-08-21,Tangerang Selatan,Kerajinan,Batik Tulis,6,156500,5,QRIS,4.4,892050
+TRX2024806,2024-12-13,Tangerang Selatan,Makanan,Keripik Singkong,3,33500,0,Tunai,3.5,100500
+TRX2024809,2024-08-23,Bekasi,Minuman,Sirup Markisa,1,29500,0,E-Wallet,4.3,29500
+TRX2024790,2024-03-24,Bekasi,Makanan,Rendang Kemasan,5,23500,10,QRIS,3.8,105750
+TRX2024055,2024-02-14,Bogor,Makanan,Rendang Kemasan,12,32500,0,Tunai,4.3,390000
+TRX2024918,2024-04-06,Bekasi,Makanan,Kue Kering,7,25000,10,Transfer,3.4,157500
+TRX2024105,2024-05-30,Bekasi,Minuman,Kopi Bubuk,7,37000,5,E-Wallet,4.1,246050
+TRX2024163,2024-04-29,Bogor,Makanan,Sambal Roa,13,21500,0,QRIS,4.5,279500
+TRX2024978,2024-02-22,Jakarta Selatan,Minuman,Kopi Bubuk,7,37500,0,QRIS,4.0,262500
+TRX2024596,2024-08-10,Depok,Makanan,Rendang Kemasan,11,31000,15,Transfer,4.5,289850
+TRX2024904,2024-05-07,Tangerang Selatan,Minuman,Sirup Markisa,4,41500,0,Transfer,5.0,166000
+TRX2024831,2024-12-09,Depok,Minuman,Kopi Bubuk,3,38500,0,Transfer,,115500
+TRX2024961,2024-11-04,Bekasi,Kerajinan,Batik Tulis,13,138000,0,E-Wallet,4.4,1794000
+TRX2024959,2024-02-19,Depok,Kerajinan,Batik Tulis,5,153000,0,QRIS,4.6,765000
+TRX2024518,2024-06-09,Bekasi,Makanan,Keripik Singkong,12,23500,0,Transfer,4.1,282000
+TRX2024631,2024-05-06,Depok,Kerajinan,Batik Tulis,4,124000,0,QRIS,4.2,496000
+TRX2024925,2024-07-14,Bekasi,Fashion,Kaos Lokal,5,120000,20,QRIS,4.6,480000
+TRX2025142,2024-09-20,Bekasi,Minuman,Teh Herbal,4,41500,0,E-Wallet,3.5,166000
+TRX2024543,2024-10-19,Bekasi,Minuman,Kopi Bubuk,4,47000,15,Tunai,3.9,159800
+TRX2024721,2024-03-29,Depok,Minuman,Kopi Bubuk,6,35500,5,QRIS,3.7,202350
+TRX2024570,2024-04-14,Depok,Makanan,Rendang Kemasan,3,32000,0,E-Wallet,4.0,96000
+TRX2024656,2024-10-23,Depok,Makanan,Keripik Singkong,10,29000,0,QRIS,5.0,290000
+TRX2024874,2024-10-13,Bogor,Minuman,Sirup Markisa,3,32000,0,Tunai,4.3,96000
+TRX2024406,2024-03-14,Jakarta Selatan,Fashion,Kemeja Tenun,10,108500,15,Transfer,4.0,922250
+TRX2025045,2024-09-23,Jakarta Selatan,Fashion,Kaos Lokal,1,99500,5,Transfer,4.1,94525
+TRX2024923,2024-04-09,Depok,Makanan,Keripik Singkong,10,20000,20,Tunai,,160000
+TRX2024446,2024-01-27,Jakarta Selatan,Kerajinan,Batik Tulis,12,101000,15,QRIS,4.5,1030200
+TRX2024479,2024-05-16,Tangerang Selatan,Kerajinan,Tas Anyaman,10,108500,5,QRIS,4.6,1030750
+TRX2024744,2024-12-22,Tangerang Selatan,Makanan,Rendang Kemasan,3,24500,15,Transfer,4.1,62475
+TRX2025060,2024-07-15,Jakarta Selatan,Makanan,Sambal Roa,7,29500,0,,4.6,206500
+TRX2024261,2024-07-16,Depok,Makanan,Sambal Roa,7,35000,15,Transfer,4.1,208250
+TRX2024294,2024-02-17,Bekasi,Minuman,Sirup Markisa,13,40500,0,Transfer,3.9,526500
+TRX2024573,2024-03-06,Bogor,Minuman,Teh Herbal,13,42000,0,Transfer,3.7,546000
+TRX2024850,2024-03-06,Depok,Makanan,Sambal Roa,8,39500,20,Tunai,3.3,252800
+TRX2024781,2024-08-18,Jakarta Selatan,Fashion,Hijab Motif,3,107000,15,Tunai,5.0,272850
+TRX2024758,2024-10-08,Jakarta Selatan,Makanan,Kue Kering,9,38000,5,Tunai,3.3,324900
+TRX2024159,2024-07-04,Jakarta Selatan,Kerajinan,Batik Tulis,3,136500,5,Tunai,4.3,389025
+TRX2024987,2024-11-18,DEPOK,Minuman,Kopi Bubuk,10,53000,5,QRIS,5.0,503500
+TRX2024333,2024-01-01,Bekasi,Kerajinan,Gerabah Hias,5,165000,0,E-Wallet,3.9,825000
+TRX2024279,2024-09-16,Bekasi,Minuman,Teh Herbal,3,48500,0,E-Wallet,4.9,145500
+TRX2025179,2024-08-20,Jakarta Selatan,Makanan,Keripik Singkong,8,22000,0,E-Wallet,4.9,176000
+TRX2024533,2024-07-31,Depok,Makanan,Kue Kering,13,26000,0,Transfer,3.3,338000
+TRX2025022,2024-03-24,Jakarta Selatan,Minuman,Teh Herbal,10,37500,0,QRIS,3.3,375000
+TRX2024014,2024-10-06,Bekasi,Fashion,Kemeja Tenun,10,96000,20,,3.6,768000
+TRX2025162,2024-10-15,Tangerang Selatan,Makanan,Kue Kering,6,33000,10,QRIS,4.1,178200
+TRX2024392,2024-06-08,Tangerang Selatan,Kerajinan,Batik Tulis,10,146000,10,QRIS,3.5,1314000
+TRX2024422,2024-04-03,Bogor,Makanan,Keripik Singkong,9,23500,5,QRIS,4.9,200925
+TRX2025031,2024-01-03,Bekasi,Minuman,Sirup Markisa,14,52500,0,Tunai,4.0,735000
+TRX2024954,2024-06-08,Bogor,Makanan,Rendang Kemasan,7,29500,0,Tunai,4.6,206500
+TRX2024891,2024-06-13,JAKARTA SELATAN,Fashion,Kemeja Tenun,2,80000,10,E-Wallet,3.4,144000
+TRX2024747,2024-08-27,Depok,Makanan,Sambal Roa,12,29500,0,E-Wallet,4.2,354000
+TRX2024236,2024-05-23,Bekasi,Minuman,Teh Herbal,11,33500,20,E-Wallet,5.0,294800
+TRX2024466,2024-02-22,Depok,Kerajinan,Tas Anyaman,7,147000,0,Tunai,4.5,1029000
+TRX2024291,2024-10-17,Tangerang Selatan,Minuman,Sirup Markisa,8,32000,0,QRIS,3.5,256000
+TRX2024233,2024-02-17,Depok,Kerajinan,Gerabah Hias,2,140500,0,Transfer,4.5,281000
+TRX2024857,2024-08-23,Bekasi,Fashion,Kemeja Tenun,13,86000,20,E-Wallet,4.4,894400
+TRX2024409,2024-07-15,Depok,Makanan,Keripik Singkong,6,30500,0,QRIS,4.7,183000
+TRX2024847,2024-10-31,Jakarta Selatan,Makanan,Keripik Singkong,7,29000,0,Tunai,4.5,203000
+TRX2024319,2024-04-22,Jakarta Selatan,Makanan,Keripik Singkong,3,25000,10,QRIS,3.9,67500
+TRX2024914,2024-04-13,Jakarta Selatan,Kerajinan,Tas Anyaman,2,98000,0,Transfer,4.2,196000
+TRX2024819,2024-10-01,Depok,Makanan,Rendang Kemasan,9,22500,5,QRIS,4.9,192375
+TRX2024646,2024-02-22,Depok,Makanan,Rendang Kemasan,14,29500,0,E-Wallet,4.2,413000
+TRX2024654,2024-06-15,TANGERANG SELATAN,Makanan,Kue Kering,5,27500,10,E-Wallet,4.3,123750
+TRX2024801,2024-09-22,Jakarta Selatan,Makanan,Sambal Roa,5,28000,0,QRIS,3.5,140000
+TRX2024059,2024-01-06,Bogor,Makanan,Kue Kering,11,23500,20,,4.1,206800
+TRX2024915,2024-08-05,Bogor,Minuman,Teh Herbal,7,31000,20,Transfer,4.1,173600
+TRX2024916,2024-09-30,Tangerang Selatan,Makanan,Kue Kering,12,31500,5,E-Wallet,4.6,359100
+TRX2024461,2024-10-14,Depok,Fashion,Hijab Motif,8,145500,0,Transfer,4.6,1164000
+TRX2025051,2024-10-11,Depok,Makanan,Keripik Singkong,12,30500,0,QRIS,4.3,366000
+TRX2024534,2024-06-25,Depok,Kerajinan,Batik Tulis,7,129000,0,E-Wallet,4.5,903000
+TRX2024973,2024-11-22,BOGOR,Makanan,Keripik Singkong,9,39500,20,E-Wallet,3.2,284400
+TRX2024638,2024-10-07,Bogor,Makanan,Rendang Kemasan,11,22000,0,Transfer,4.6,242000
+TRX2025058,2024-12-30,Jakarta Selatan,Makanan,Kue Kering,1,28500,0,QRIS,3.6,28500
+TRX2024401,2024-11-17,Tangerang Selatan,Makanan,Sambal Roa,10,21000,20,Tunai,4.7,168000
+TRX2024993,2024-01-02,Tangerang Selatan,Kerajinan,Gerabah Hias,3,171000,10,E-Wallet,4.0,461700
+TRX2024371,2024-04-24,Depok,Fashion,Hijab Motif,12,113000,15,Transfer,4.7,1152600
+TRX2024399,2024-11-26,Depok,Makanan,Sambal Roa,11,23500,0,E-Wallet,3.6,258500
+TRX2024615,2024-04-27,Bekasi,Makanan,Kue Kering,3,31000,0,E-Wallet,4.7,93000
+TRX2024896,2024-10-06,Tangerang Selatan,Kerajinan,Tas Anyaman,12,157500,0,QRIS,3.8,1890000
+TRX2025064,2024-05-10,Tangerang Selatan,Minuman,Kopi Bubuk,7,35500,0,Transfer,4.2,248500
+TRX2024037,2024-08-07,Depok,Makanan,Kue Kering,3,38000,0,QRIS,3.4,114000
+TRX2024589,2024-07-06,Depok,Minuman,Sirup Markisa,1,38500,5,QRIS,3.9,36575
+TRX2024677,2024-11-11,Tangerang Selatan,Makanan,Kue Kering,14,30000,5,Transfer,3.7,399000
+TRX2024106,2024-11-11,Depok,Makanan,Sambal Roa,4,29500,10,QRIS,4.7,106200
+TRX2024322,2024-01-30,Bekasi,Makanan,Sambal Roa,11,30000,15,Tunai,3.7,280500
+TRX2024351,2024-11-02,Bekasi,Minuman,Kopi Bubuk,5,40000,20,Transfer,5.0,160000
+TRX2024356,2024-01-21,Bogor,Makanan,Sambal Roa,14,38500,5,Transfer,,512050
+TRX2024251,2024-07-12,Bogor,Fashion,Kaos Lokal,2,86000,15,Tunai,4.2,146200
+TRX2024706,2024-03-18,Depok,Makanan,Keripik Singkong,7,24500,0,Transfer,4.7,171500
+TRX2024390,2024-03-05,Depok,Kerajinan,Gerabah Hias,6,171000,0,Transfer,4.1,1026000
+TRX2024443,2024-10-06,Depok,Minuman,Teh Herbal,9,32000,10,QRIS,4.5,259200
+TRX2024722,2024-05-25,Depok,Minuman,Teh Herbal,14,34000,5,QRIS,4.6,452200
+TRX2024215,2024-02-06,Depok,Fashion,Hijab Motif,4,84000,20,QRIS,4.5,268800
+TRX2024338,2024-12-19,Depok,Minuman,Teh Herbal,2,47000,15,QRIS,4.2,79900
+TRX2024056,2024-12-20,Jakarta Selatan,Minuman,Sirup Markisa,12,36000,5,QRIS,4.5,410400
+TRX2024181,2024-01-12,Jakarta Selatan,Makanan,Kue Kering,2,37000,10,Transfer,,66600
+TRX2024053,2024-07-22,Jakarta Selatan,Makanan,Kue Kering,3,38500,5,Tunai,3.8,109725
+TRX2024660,2024-01-06,Depok,Makanan,Sambal Roa,3,20000,5,QRIS,3.5,57000
+TRX2025127,2024-09-03,Bekasi,Fashion,Kaos Lokal,6,125500,0,Transfer,5.0,753000
+TRX2024346,2024-01-22,Bogor,Makanan,Kue Kering,10,39000,10,Transfer,4.2,351000
+TRX2024231,2024-07-25,Jakarta Selatan,Makanan,Keripik Singkong,3,23500,0,E-Wallet,4.1,70500
+TRX2024151,2024-07-16,Bekasi,Makanan,Rendang Kemasan,10,20000,0,Tunai,3.9,200000
+TRX2025009,2024-06-30,Bogor,Minuman,Sirup Markisa,9,51000,15,QRIS,3.4,390150
+TRX2025029,2024-08-24,Bogor,Makanan,Keripik Singkong,4,23500,0,Tunai,5.0,94000
+TRX2024230,2024-09-23,Depok,Makanan,Keripik Singkong,3,30000,15,Transfer,3.2,76500
+TRX2024524,2024-08-05,Tangerang Selatan,Minuman,Kopi Bubuk,3,30500,0,Tunai,4.2,91500
+TRX2024796,2024-09-05,Jakarta Selatan,Makanan,Kue Kering,8,32500,20,Transfer,5.0,208000
+TRX2025105,2024-02-15,Tangerang Selatan,Minuman,Kopi Bubuk,1,48000,0,Tunai,4.6,48000
+TRX2025015,2024-06-18,Depok,Makanan,Kue Kering,6,26000,10,QRIS,5.0,140400
+TRX2024257,2024-05-01,Bekasi,Minuman,Teh Herbal,2,34000,5,QRIS,4.0,64600
+TRX2024388,2024-03-13,Jakarta Selatan,Fashion,Hijab Motif,1,98500,5,QRIS,4.5,93575
+TRX2024525,2024-10-15,Bekasi,Makanan,Keripik Singkong,9,21500,5,Transfer,3.7,183825
+TRX2024185,2024-02-08,Depok,Kerajinan,Gerabah Hias,13,153000,10,E-Wallet,4.0,1790100
+TRX2024043,2024-09-08,Depok,Fashion,Hijab Motif,7,105000,10,QRIS,3.1,661500
+TRX2024473,2024-02-03,Jakarta Selatan,Minuman,Kopi Bubuk,12,39000,15,QRIS,4.8,397800
+TRX2024856,2024-12-28,Bekasi,Minuman,Teh Herbal,2,29500,0,Tunai,4.9,59000
+TRX2024142,2024-02-26,Jakarta Selatan,Makanan,Kue Kering,9,27500,20,Tunai,4.9,198000
+TRX2024807,2024-08-18,Jakarta Selatan,Minuman,Teh Herbal,13,38000,5,E-Wallet,4.6,469300
+TRX2025074,2024-09-04,Tangerang Selatan,Minuman,Kopi Bubuk,1,31000,0,Tunai,4.5,31000
+TRX2025075,2024-01-09,Jakarta Selatan,Makanan,Sambal Roa,10,38000,0,E-Wallet,4.1,380000
+TRX2024880,2024-09-07,Bekasi,Minuman,Teh Herbal,12,46000,0,Tunai,4.2,552000
+TRX2024683,2024-04-25,Bekasi,Minuman,Kopi Bubuk,3,29000,5,Tunai,4.1,82650
+TRX2025196,2024-12-23,Depok,Minuman,Teh Herbal,12,54000,15,Tunai,4.2,550800
+TRX2024329,2024-02-07,Jakarta Selatan,Makanan,Keripik Singkong,5,23000,15,E-Wallet,4.4,97750
+TRX2024512,2024-01-02,Depok,Minuman,Sirup Markisa,5,31500,5,E-Wallet,,149625
+TRX2024853,2024-02-03,Bogor,Fashion,Kemeja Tenun,13,119000,0,E-Wallet,4.9,1547000
+TRX2024579,2024-02-05,Jakarta Selatan,Minuman,Teh Herbal,6,32500,0,Tunai,3.4,195000
+TRX2024783,2024-06-19,Bekasi,Makanan,Sambal Roa,8,22000,10,Transfer,4.0,158400
+TRX2025088,2024-12-23,Bogor,Makanan,Rendang Kemasan,1,27500,0,E-Wallet,3.2,27500
+TRX2024724,2024-10-26,BEKASI,Minuman,Sirup Markisa,14,36000,0,QRIS,4.8,504000
+TRX2025056,2024-02-16,Jakarta Selatan,Makanan,Keripik Singkong,2,23500,0,Tunai,4.5,47000
+TRX2025099,2024-12-13,Depok,Makanan,Sambal Roa,6,37000,0,,3.6,222000
+TRX2024888,2024-06-05,Bekasi,Minuman,Sirup Markisa,9,32500,0,QRIS,4.8,292500
+TRX2024784,2024-06-15,Bogor,Minuman,Sirup Markisa,12,44500,0,Transfer,5.0,534000
+TRX2024931,2024-01-26,Depok,Fashion,Hijab Motif,8,95500,15,Transfer,3.5,649400
+TRX2025085,2024-07-15,Depok,Minuman,Teh Herbal,1,54500,20,E-Wallet,,43600
+TRX2024643,2024-12-05,Bekasi,Makanan,Sambal Roa,6,35000,15,Transfer,3.3,178500
+TRX2025062,2024-07-28,Depok,Minuman,Sirup Markisa,1,53000,20,QRIS,4.5,42400
+TRX2024283,2024-04-23,Jakarta Selatan,Makanan,Sambal Roa,10,26500,0,Tunai,4.3,265000
+TRX2024645,2024-06-02,Depok,Minuman,Kopi Bubuk,2,46500,20,Transfer,4.7,74400
+TRX2024417,2024-10-15,Jakarta Selatan,Minuman,Sirup Markisa,13,46500,5,QRIS,3.1,574275
+TRX2025122,2024-10-16,Depok,Kerajinan,Tas Anyaman,1,130500,0,Tunai,4.6,130500
+TRX2024642,2024-08-24,Depok,Makanan,Sambal Roa,2,26000,5,Tunai,3.7,49400
+TRX2024980,2024-10-18,Bogor,Fashion,Hijab Motif,6,96000,10,Tunai,4.9,518400
+TRX2024114,2024-04-06,Depok,Makanan,Kue Kering,8,39500,0,E-Wallet,4.7,316000
+TRX2024804,2024-09-25,Jakarta Selatan,Makanan,Kue Kering,13,28500,10,QRIS,4.6,333450
+TRX2024289,2024-02-05,Tangerang Selatan,Makanan,Kue Kering,6,22000,15,QRIS,4.8,112200
+TRX2024780,2024-05-24,Jakarta Selatan,Fashion,Hijab Motif,1,76000,0,E-Wallet,3.9,76000
+TRX2025092,2024-04-08,TANGERANG SELATAN,Minuman,Teh Herbal,7,42500,0,E-Wallet,3.4,297500
+TRX2024271,2024-08-17,Depok,Minuman,Teh Herbal,2,50000,20,QRIS,4.6,80000
+TRX2024708,2024-10-08,Tangerang Selatan,Minuman,Kopi Bubuk,7,33500,15,E-Wallet,3.2,199325
+TRX2024313,2024-02-14,Bogor,Fashion,Kaos Lokal,3,100500,10,Transfer,3.9,271350
+TRX2024688,2024-10-26,Depok,Kerajinan,Gerabah Hias,2,97000,0,E-Wallet,4.0,194000
+TRX2024284,2024-04-26,Jakarta Selatan,Makanan,Keripik Singkong,12,30000,15,E-Wallet,4.0,306000
+TRX2024129,2024-05-09,Depok,Fashion,Kaos Lokal,14,150500,20,QRIS,4.9,1685600
+TRX2024395,2024-10-15,Bogor,Makanan,Sambal Roa,2,22000,0,Transfer,3.2,44000
+TRX2024326,2024-01-27,Depok,Makanan,Sambal Roa,5,20500,15,QRIS,4.9,87125
+TRX2024926,2024-10-05,Depok,Makanan,Sambal Roa,9,31500,15,QRIS,4.2,240975
+TRX2024893,2024-08-28,Bekasi,Makanan,Rendang Kemasan,11,24000,10,QRIS,4.1,237600
+TRX2025106,2024-04-22,Jakarta Selatan,Makanan,Kue Kering,2,39000,10,QRIS,5.0,70200
+TRX2024040,2024-04-13,Jakarta Selatan,Makanan,Sambal Roa,8,28000,0,Transfer,3.5,224000
+TRX2024306,2024-05-07,Depok,Kerajinan,Gerabah Hias,9,178000,0,Transfer,4.5,1602000
+TRX2024373,2024-05-06,Depok,Minuman,Kopi Bubuk,6,43500,0,QRIS,4.6,261000
+TRX2024825,2024-07-28,JAKARTA SELATAN,Minuman,Teh Herbal,13,46000,0,Tunai,4.1,598000
+TRX2024495,2024-05-04,Bekasi,Fashion,Kaos Lokal,8,109500,10,Transfer,4.6,788400
+TRX2024272,2024-10-22,Bekasi,Minuman,Sirup Markisa,3,33500,10,Transfer,3.6,90450
+TRX2024008,2024-08-27,Bogor,Makanan,Keripik Singkong,2,33000,5,Tunai,4.3,62700
+TRX2024892,2024-10-25,Depok,Kerajinan,Batik Tulis,1,98500,5,Transfer,4.0,93575
+TRX2024742,2024-03-29,Depok,Fashion,Kaos Lokal,6,110000,0,QRIS,4.8,660000
+TRX2024652,2024-01-27,Tangerang Selatan,Fashion,Hijab Motif,10,134000,5,Tunai,4.2,1273000
+TRX2024944,2024-06-28,Bogor,Minuman,Kopi Bubuk,12,35000,0,Tunai,4.3,420000
+TRX2024397,2024-01-30,Bogor,Kerajinan,Tas Anyaman,14,177000,10,Transfer,3.6,2230200
+TRX2024414,2024-02-13,Depok,Makanan,Sambal Roa,8,33000,5,QRIS,5.0,250800
+TRX2025164,2024-11-03,Bekasi,Minuman,Sirup Markisa,8,38500,0,Transfer,4.0,308000
+TRX2024755,2024-08-02,Depok,Makanan,Rendang Kemasan,9,39500,0,QRIS,4.6,355500
+TRX2025007,2024-04-14,Bekasi,Makanan,Rendang Kemasan,14,22000,20,E-Wallet,4.7,246400
+TRX2024504,2024-02-20,Jakarta Selatan,Minuman,Teh Herbal,13,34000,0,Transfer,5.0,442000
+TRX2024532,2024-01-10,Jakarta Selatan,Minuman,Teh Herbal,3,33000,15,QRIS,3.7,84150
+TRX2024972,2024-02-14,Tangerang Selatan,Kerajinan,Gerabah Hias,7,155000,0,Transfer,3.9,1085000
+TRX2024740,2024-11-01,Jakarta Selatan,Minuman,Sirup Markisa,4,32500,0,QRIS,,130000
+TRX2024863,2024-12-15,Jakarta Selatan,Makanan,Kue Kering,6,26500,20,QRIS,3.6,127200
+TRX2024960,2024-10-09,Bogor,Makanan,Rendang Kemasan,9,30500,5,QRIS,4.4,260775
+TRX2024491,2024-01-11,Tangerang Selatan,Kerajinan,Gerabah Hias,8,96000,0,Tunai,3.6,768000
+TRX2024079,2024-11-08,Bogor,Makanan,Rendang Kemasan,4,36500,10,Tunai,4.1,131400
+TRX2024141,2024-04-12,Depok,Minuman,Sirup Markisa,1,55500,0,Transfer,4.2,55500
+TRX2024342,2024-11-15,Tangerang Selatan,Makanan,Sambal Roa,8,25500,0,Tunai,3.6,204000
+TRX2025190,2024-06-05,Bogor,Makanan,Sambal Roa,13,29500,0,E-Wallet,4.8,383500
+TRX2024049,2024-01-19,Bogor,Fashion,Kaos Lokal,4,120500,0,QRIS,4.9,482000
+TRX2024250,2024-04-16,Depok,Fashion,Hijab Motif,5,88500,0,QRIS,3.8,442500
+TRX2024999,2024-07-04,Jakarta Selatan,Makanan,Keripik Singkong,8,39500,20,Transfer,5.0,252800
+TRX2024020,2024-10-22,Jakarta Selatan,Fashion,Kaos Lokal,9,111500,0,Transfer,3.8,1003500
+TRX2024569,2024-05-31,Bogor,Kerajinan,Tas Anyaman,5,177500,0,QRIS,2.9,887500
+TRX2025052,2024-11-20,Tangerang Selatan,Makanan,Keripik Singkong,4,34500,15,Transfer,3.7,117300
+TRX2024135,2024-04-30,Jakarta Selatan,Fashion,Kaos Lokal,13,135000,5,Transfer,4.4,1667250
+TRX2024536,2024-08-27,Tangerang Selatan,Makanan,Keripik Singkong,10,32500,20,Tunai,3.5,260000
+TRX2024567,2024-06-21,Tangerang Selatan,Makanan,Keripik Singkong,7,39500,20,Transfer,4.6,221200
+TRX2024653,2024-01-13,Depok,Makanan,Kue Kering,7,34500,0,E-Wallet,3.7,241500
+TRX2024696,2024-09-05,Jakarta Selatan,Makanan,Rendang Kemasan,7,25000,10,QRIS,4.2,157500
+TRX2025032,2024-09-01,Depok,Minuman,Kopi Bubuk,12,45000,5,Transfer,4.4,513000
+TRX2024481,2024-08-31,Depok,Makanan,Keripik Singkong,13,38000,5,Tunai,3.9,469300
+TRX2024033,2024-08-20,Depok,Fashion,Hijab Motif,12,111500,15,QRIS,3.8,1137300
+TRX2024989,2024-09-16,Depok,Kerajinan,Gerabah Hias,13,153000,20,Tunai,3.5,1591200
+TRX2024382,2024-03-01,Jakarta Selatan,Kerajinan,Tas Anyaman,4,145000,20,E-Wallet,4.9,464000
+TRX2024025,2024-11-05,Tangerang Selatan,Fashion,Kaos Lokal,13,132500,20,Transfer,,1378000
+TRX2024047,2024-12-14,Depok,Kerajinan,Batik Tulis,13,108500,10,Tunai,4.6,1269450
+TRX2025027,2024-03-09,Depok,Kerajinan,Gerabah Hias,11,122000,0,QRIS,3.9,1342000
+TRX2024174,2024-05-04,Bogor,Minuman,Sirup Markisa,14,29500,0,QRIS,3.6,413000
+TRX2024029,2024-04-18,Bogor,Makanan,Keripik Singkong,10,22000,5,Transfer,3.7,209000
+TRX2024571,2024-10-24,Depok,Minuman,Kopi Bubuk,8,35000,5,Tunai,3.3,266000
+TRX2024153,2024-04-25,Tangerang Selatan,Makanan,Rendang Kemasan,13,38000,15,Tunai,4.1,419900
+TRX2024745,2024-05-24,Jakarta Selatan,Kerajinan,Batik Tulis,9,113500,0,Transfer,4.1,1021500
+TRX2024785,2024-06-25,Depok,Makanan,Keripik Singkong,14,23500,0,Transfer,,329000
+TRX2025011,2024-12-25,Jakarta Selatan,Makanan,Rendang Kemasan,1,32500,5,QRIS,,30875
+TRX2024161,2024-05-14,Jakarta Selatan,Minuman,Kopi Bubuk,6,29000,10,Tunai,3.4,156600
+TRX2024244,2024-12-12,Depok,Minuman,Kopi Bubuk,10,51000,0,Tunai,3.9,510000
+TRX2024510,2024-12-29,Jakarta Selatan,Kerajinan,Batik Tulis,13,172500,0,Tunai,4.5,2242500
+TRX2024158,2024-04-01,Tangerang Selatan,Makanan,Kue Kering,2,35500,0,Tunai,3.4,71000
+TRX2024530,2024-07-25,Bekasi,Kerajinan,Gerabah Hias,14,119500,10,E-Wallet,4.0,1505700
+TRX2024501,2024-08-06,Jakarta Selatan,Minuman,Teh Herbal,13,31000,0,Transfer,4.9,403000
+TRX2024432,2024-11-24,Tangerang Selatan,Makanan,Rendang Kemasan,3,32500,0,Tunai,4.4,97500
+TRX2024958,2024-06-18,Tangerang Selatan,Minuman,Sirup Markisa,12,50000,0,QRIS,3.5,600000
+TRX2025094,2024-01-17,Jakarta Selatan,Kerajinan,Batik Tulis,6,131000,0,Transfer,3.8,786000
+TRX2024332,2024-07-22,Depok,Kerajinan,Tas Anyaman,13,131000,5,QRIS,4.9,1617850
+TRX2025128,2024-03-21,Bogor,Makanan,Rendang Kemasan,3,28500,0,QRIS,4.5,85500
+TRX2024366,2024-12-06,Tangerang Selatan,Minuman,Kopi Bubuk,10,52000,0,QRIS,3.1,520000
+TRX2025123,2024-09-12,Jakarta Selatan,Minuman,Teh Herbal,13,30500,0,Tunai,5.0,396500
+TRX2024054,2024-02-21,Tangerang Selatan,Fashion,Kemeja Tenun,11,112000,0,Tunai,4.7,1232000
+TRX2024584,2024-06-28,Jakarta Selatan,Kerajinan,Tas Anyaman,11,183500,5,E-Wallet,4.0,1917575
+TRX2024680,2024-12-03,Bogor,Kerajinan,Batik Tulis,5,191500,20,E-Wallet,5.0,766000
+TRX2024894,2024-12-30,Bogor,Makanan,Kue Kering,6,21500,15,Transfer,3.6,109650
+TRX2025069,2024-06-23,Jakarta Selatan,Minuman,Kopi Bubuk,1,47500,15,E-Wallet,4.0,40375
+TRX2024768,2024-05-16,Depok,Minuman,Kopi Bubuk,5,37000,10,Tunai,3.1,166500
+TRX2024024,2024-12-28,Depok,Makanan,Sambal Roa,8,25000,20,QRIS,3.5,160000
+TRX2024298,2024-09-05,Depok,Minuman,Teh Herbal,2,34500,15,E-Wallet,3.9,58650
+TRX2024556,2024-10-24,Jakarta Selatan,Kerajinan,Tas Anyaman,8,141500,20,Transfer,4.0,905600
+TRX2024575,2024-08-29,Depok,Fashion,Hijab Motif,7,95500,0,Transfer,3.0,668500
+TRX2024018,2024-04-19,Bogor,Makanan,Keripik Singkong,9,23000,20,QRIS,4.6,165600
+TRX2024990,2024-02-21,Tangerang Selatan,Minuman,Kopi Bubuk,5,43000,0,Transfer,3.8,215000
+TRX2024254,2024-11-18,Jakarta Selatan,Kerajinan,Batik Tulis,12,103000,15,QRIS,3.7,1050600
+TRX2024225,2024-12-30,Depok,Minuman,Teh Herbal,14,37500,5,QRIS,3.3,498750
+TRX2024599,2024-07-23,Depok,Makanan,Keripik Singkong,7,22000,5,Tunai,,146300
+TRX2024867,2024-02-18,Tangerang Selatan,Makanan,Keripik Singkong,2,32000,10,Transfer,3.8,57600
+TRX2024419,2024-08-25,Depok,Makanan,Sambal Roa,12,39000,20,Tunai,4.3,374400
+TRX2024951,2024-04-26,Tangerang Selatan,Minuman,Kopi Bubuk,12,34000,0,E-Wallet,4.8,408000
+TRX2025034,2024-05-13,Jakarta Selatan,Makanan,Kue Kering,5,32500,20,E-Wallet,3.9,130000
+TRX2024222,2024-10-05,Depok,Fashion,Kemeja Tenun,12,111000,0,Transfer,4.6,1332000
+TRX2024934,2024-09-19,Jakarta Selatan,Fashion,Kemeja Tenun,7,128000,10,Tunai,,806400
+TRX2024424,2024-03-11,Depok,Makanan,Sambal Roa,2,32000,0,QRIS,3.8,64000
+TRX2024218,2024-02-09,Jakarta Selatan,Minuman,Kopi Bubuk,11,48500,15,E-Wallet,3.8,453475
+TRX2024307,2024-11-07,Bekasi,Minuman,Teh Herbal,4,38500,0,QRIS,4.3,154000
+TRX2024922,2024-12-28,Bekasi,Makanan,Sambal Roa,11,29000,20,E-Wallet,4.0,255200
+TRX2024171,2024-04-15,Bekasi,Minuman,Teh Herbal,7,35000,0,E-Wallet,3.7,245000
+TRX2024442,2024-04-12,Depok,Minuman,Teh Herbal,3,54000,0,Tunai,4.2,162000
+TRX2024878,2024-08-30,Jakarta Selatan,Minuman,Sirup Markisa,5,47500,20,Transfer,3.8,190000
+TRX2024705,2024-07-09,Jakarta Selatan,Makanan,Kue Kering,4,37000,0,Tunai,4.4,148000
+TRX2024770,2024-09-08,Depok,Kerajinan,Gerabah Hias,4,170000,0,Tunai,5.0,680000
+TRX2024286,2024-09-09,BOGOR,Makanan,Rendang Kemasan,2,28500,0,QRIS,4.3,57000
+TRX2024066,2024-09-09,Jakarta Selatan,Fashion,Kaos Lokal,3,114500,0,QRIS,4.2,343500
+TRX2024453,2024-02-23,Depok,Makanan,Kue Kering,2,34500,20,QRIS,3.8,55200
+TRX2025171,2024-06-08,Depok,Kerajinan,Tas Anyaman,3,187000,10,QRIS,4.1,504900
+TRX2024071,2024-04-08,Jakarta Selatan,Fashion,Hijab Motif,8,115500,15,E-Wallet,4.6,785400
+TRX2024897,2024-06-12,Jakarta Selatan,Kerajinan,Gerabah Hias,2,162500,15,Tunai,4.0,276250
+TRX2024412,2024-02-15,Tangerang Selatan,Makanan,Kue Kering,9,28000,0,QRIS,4.9,252000
+TRX2024082,2024-05-23,Jakarta Selatan,Makanan,Kue Kering,13,32500,0,QRIS,4.1,422500
+TRX2024156,2024-03-26,Bekasi,Makanan,Rendang Kemasan,12,36500,0,QRIS,4.1,438000
+TRX2025158,2024-06-08,Jakarta Selatan,Minuman,Kopi Bubuk,8,29000,15,QRIS,4.2,197200
+TRX2024015,2024-02-16,Depok,Makanan,Keripik Singkong,2,38000,5,QRIS,4.3,72200
+TRX2024265,2024-04-28,Bogor,Minuman,Sirup Markisa,13,54000,0,E-Wallet,4.6,702000
+TRX2024535,2024-04-24,Depok,Fashion,Kemeja Tenun,5,82500,0,Tunai,4.2,412500
+TRX2024816,2024-11-28,Bogor,Fashion,Hijab Motif,3,148000,10,E-Wallet,4.1,399600
+TRX2024451,2024-07-23,Bogor,Fashion,Kemeja Tenun,10,130000,20,QRIS,4.7,1040000
+TRX2024882,2024-12-24,Tangerang Selatan,Minuman,Teh Herbal,12,32000,5,Transfer,4.6,364800
+TRX2024965,2024-04-17,Bogor,Makanan,Keripik Singkong,6,32000,0,Transfer,4.9,192000
+TRX2024404,2024-10-04,Bogor,Minuman,Teh Herbal,7,34500,0,QRIS,4.4,241500
+TRX2025116,2024-09-04,Depok,Makanan,Sambal Roa,1,31500,0,Transfer,4.3,31500
+TRX2024490,2024-01-08,BEKASI,Makanan,Keripik Singkong,13,26500,10,QRIS,3.3,310050
+TRX2025079,2024-12-18,Depok,Makanan,Kue Kering,12,31000,0,E-Wallet,3.3,372000
+TRX2024541,2024-01-19,Bogor,Makanan,Sambal Roa,3,20000,0,Tunai,4.6,60000
+TRX2024693,2024-03-29,Jakarta Selatan,Minuman,Teh Herbal,4,47000,10,Transfer,3.6,169200
+TRX2024739,2024-02-10,Jakarta Selatan,Makanan,Keripik Singkong,10,37500,20,QRIS,4.2,300000
+TRX2024364,2024-09-04,Jakarta Selatan,Kerajinan,Tas Anyaman,11,145500,10,QRIS,5.0,1440450
+TRX2024629,2024-04-03,Depok,Minuman,Kopi Bubuk,4,44500,0,QRIS,3.6,178000
+TRX2024459,2024-05-06,Jakarta Selatan,Kerajinan,Batik Tulis,3,158000,5,QRIS,4.0,450300
+TRX2024104,2024-02-25,Depok,Makanan,Rendang Kemasan,6,28000,0,E-Wallet,4.2,168000
+TRX2024268,2024-07-13,Jakarta Selatan,Makanan,Sambal Roa,2,23500,15,QRIS,4.2,39950
+TRX2024608,2024-12-09,Depok,Makanan,Kue Kering,1,28000,15,Tunai,4.2,23800
+TRX2025121,2024-07-13,Depok,Minuman,Kopi Bubuk,11,55000,20,QRIS,3.5,484000
+TRX2024957,2024-04-01,Bekasi,Minuman,Kopi Bubuk,6,28500,0,Transfer,4.5,171000
+TRX2024661,2024-11-06,Bekasi,Fashion,Kaos Lokal,4,99500,5,E-Wallet,,378100
+TRX2024241,2024-01-03,Tangerang Selatan,Makanan,Rendang Kemasan,12,39000,15,E-Wallet,3.5,397800
+TRX2024430,2024-05-22,BEKASI,Minuman,Kopi Bubuk,5,31500,0,Tunai,4.2,157500
+TRX2024814,2024-04-22,Tangerang Selatan,Makanan,Sambal Roa,11,21000,0,E-Wallet,4.2,231000
+TRX2024962,2024-08-05,Bogor,Makanan,Kue Kering,1,31500,20,QRIS,4.1,25200
+TRX2024203,2024-04-25,Depok,Fashion,Hijab Motif,9,78500,0,E-Wallet,4.6,706500
+TRX2025172,2024-12-26,Bogor,Minuman,Sirup Markisa,13,31000,20,Tunai,3.0,322400
+TRX2024595,2024-08-26,Depok,Minuman,Teh Herbal,13,50500,0,QRIS,3.5,656500
+TRX2024630,2024-10-20,Jakarta Selatan,Makanan,Kue Kering,5,38000,15,Transfer,3.5,161500
+TRX2024096,2024-12-18,Jakarta Selatan,Makanan,Sambal Roa,1,29000,10,Transfer,3.2,26100
+TRX2024467,2024-11-02,Bogor,Makanan,Keripik Singkong,2,23500,10,Transfer,3.6,42300
+TRX2024868,2024-07-15,DEPOK,Minuman,Kopi Bubuk,9,31500,5,E-Wallet,4.9,269325
+TRX2024492,2024-04-04,Bekasi,Fashion,Kaos Lokal,1,136000,5,QRIS,4.5,129200
+TRX2024166,2024-03-14,Bekasi,Kerajinan,Batik Tulis,4,168000,5,Transfer,2.8,638400
+TRX2024909,2024-07-20,Jakarta Selatan,Fashion,Kemeja Tenun,3,86000,10,QRIS,5.0,232200
+TRX2024701,2024-05-12,Bekasi,Makanan,Sambal Roa,7,34000,0,Tunai,,238000
+TRX2024694,2024-08-06,Bogor,Kerajinan,Tas Anyaman,6,130500,0,Tunai,4.4,783000
+TRX2024009,2024-08-08,Jakarta Selatan,Minuman,Kopi Bubuk,8,36500,0,QRIS,,292000
+TRX2024604,2024-08-08,Jakarta Selatan,Fashion,Kaos Lokal,1,90500,15,QRIS,3.9,76925
+TRX2024315,2024-05-06,JAKARTA SELATAN,Makanan,Sambal Roa,14,38500,0,Transfer,4.0,539000
+TRX2024773,2024-04-25,Bekasi,Makanan,Keripik Singkong,7,33000,0,QRIS,3.6,231000
+TRX2024361,2024-10-30,Bogor,Minuman,Kopi Bubuk,7,37500,0,Transfer,4.7,262500
+TRX2024138,2024-07-12,Depok,Minuman,Kopi Bubuk,7,39000,5,E-Wallet,4.4,259350
+TRX2024823,2024-02-03,Bekasi,Minuman,Kopi Bubuk,13,34500,15,E-Wallet,3.3,381225
+TRX2024276,2024-02-21,Tangerang Selatan,Minuman,Kopi Bubuk,6,32500,15,QRIS,4.6,165750
+TRX2024384,2024-07-23,Jakarta Selatan,Minuman,Kopi Bubuk,6,50500,10,E-Wallet,5.0,272700
+TRX2024568,2024-09-01,Jakarta Selatan,Makanan,Keripik Singkong,4,20000,0,QRIS,3.6,80000
+TRX2025076,2024-01-20,Depok,Fashion,Kaos Lokal,5,85000,5,E-Wallet,3.7,403750
+TRX2024772,2024-12-04,Bekasi,Makanan,Kue Kering,14,32500,20,E-Wallet,4.9,364000
+TRX2024088,2024-03-22,Bekasi,Minuman,Kopi Bubuk,12,30000,5,E-Wallet,4.7,342000
+TRX2024090,2024-05-19,Depok,Fashion,Hijab Motif,11,136500,0,Tunai,3.9,1501500
+TRX2024765,2024-09-26,Depok,Kerajinan,Batik Tulis,10,120500,15,E-Wallet,4.7,1024250
+TRX2024280,2024-02-17,Jakarta Selatan,Minuman,Teh Herbal,5,55000,15,QRIS,3.2,233750
+TRX2024651,2024-08-04,Bogor,Kerajinan,Gerabah Hias,2,142500,0,Tunai,3.9,285000
+TRX2024460,2024-06-13,Depok,Makanan,Sambal Roa,3,22500,20,Transfer,,54000
+TRX2024884,2024-11-26,Depok,Kerajinan,Batik Tulis,6,153000,0,Transfer,4.6,918000
+TRX2024799,2024-01-31,Bogor,Minuman,Sirup Markisa,4,40000,15,QRIS,,136000
+TRX2024300,2024-05-07,Tangerang Selatan,Minuman,Sirup Markisa,3,45000,0,QRIS,4.0,135000
+TRX2024859,2024-03-04,Depok,Fashion,Kemeja Tenun,13,145000,0,Transfer,4.5,1885000
+TRX2024202,2024-02-11,Depok,Makanan,Rendang Kemasan,6,27500,0,Tunai,3.7,165000
+TRX2024402,2024-02-17,Jakarta Selatan,Makanan,Kue Kering,12,34500,0,Transfer,4.8,414000
+TRX2024340,2024-04-22,Tangerang Selatan,Kerajinan,Gerabah Hias,6,97000,10,QRIS,3.8,523800
+TRX2024365,2024-08-29,Bekasi,Kerajinan,Tas Anyaman,14,97500,5,E-Wallet,4.5,1296750
+TRX2024023,2024-04-23,Bekasi,Makanan,Keripik Singkong,8,27000,15,QRIS,4.8,183600
+TRX2024345,2024-04-05,Bekasi,Makanan,Keripik Singkong,10,32500,15,Tunai,3.3,276250
+TRX2024676,2024-10-25,Bogor,Minuman,Kopi Bubuk,6,41500,20,Transfer,5.0,199200
+TRX2025173,2024-04-14,Tangerang Selatan,Makanan,Keripik Singkong,14,39500,0,QRIS,4.4,553000
+TRX2024334,2024-09-26,Bogor,Makanan,Kue Kering,1,37000,0,Transfer,3.9,37000
+TRX2024310,2024-12-05,Depok,Fashion,Kemeja Tenun,12,86500,5,E-Wallet,5.0,986100
+TRX2025152,2024-06-11,Bogor,Fashion,Kemeja Tenun,1,141000,0,Transfer,4.6,141000
+TRX2024640,2024-10-09,Jakarta Selatan,Kerajinan,Batik Tulis,1,139500,10,QRIS,3.9,125550
+TRX2024353,2024-11-09,Bekasi,Makanan,Keripik Singkong,5,36000,0,E-Wallet,3.6,180000
+TRX2024735,2024-04-19,Depok,Minuman,Kopi Bubuk,11,38000,15,QRIS,3.6,355300
+TRX2025184,2024-12-21,Bogor,Fashion,Hijab Motif,5,108500,0,QRIS,3.7,542500
+TRX2024240,2024-10-19,Bekasi,Makanan,Kue Kering,12,38000,0,Tunai,4.1,456000
+TRX2024666,2024-10-10,Jakarta Selatan,Makanan,Rendang Kemasan,11,34500,20,QRIS,4.5,303600
+TRX2024318,2024-06-20,Depok,Makanan,Kue Kering,6,30500,0,Transfer,,183000
+TRX2025038,2024-08-22,Depok,Makanan,Sambal Roa,10,39500,10,E-Wallet,4.3,355500
+TRX2024262,2024-03-12,Bogor,Fashion,Hijab Motif,3,123500,0,Transfer,4.3,370500
+TRX2024098,2024-08-14,Depok,Minuman,Sirup Markisa,11,44500,10,QRIS,4.7,440550
+TRX2024167,2024-12-18,Depok,Makanan,Sambal Roa,3,35000,0,QRIS,4.8,105000
+TRX2024496,2024-10-16,Jakarta Selatan,Kerajinan,Tas Anyaman,10,167500,0,Transfer,4.2,1675000
+TRX2024725,2024-11-25,Bekasi,Fashion,Kaos Lokal,8,128000,10,E-Wallet,3.8,921600
+TRX2024275,2024-08-15,Depok,Kerajinan,Tas Anyaman,2,141500,10,QRIS,3.9,254700
+TRX2024089,2024-05-15,Bogor,Makanan,Keripik Singkong,6,20500,0,Tunai,4.5,123000
+TRX2024714,2024-08-06,Bekasi,Minuman,Teh Herbal,9,40000,20,E-Wallet,4.2,288000
+TRX2024515,2024-02-24,Bogor,Minuman,Kopi Bubuk,4,40500,15,Transfer,4.1,137700
+TRX2024994,2024-03-11,Depok,Kerajinan,Gerabah Hias,5,156000,10,QRIS,3.9,702000
+TRX2024331,2024-02-26,Bekasi,Minuman,Teh Herbal,7,44000,0,QRIS,4.5,308000
+TRX2025047,2024-05-01,Jakarta Selatan,Kerajinan,Tas Anyaman,2,122500,10,Tunai,4.3,220500
+TRX2024433,2024-04-25,Tangerang Selatan,Kerajinan,Tas Anyaman,14,140000,10,,4.1,1764000
+TRX2025160,2024-09-07,Tangerang Selatan,Makanan,Sambal Roa,8,30000,10,Tunai,3.3,216000
+TRX2025030,2024-12-14,Depok,Minuman,Sirup Markisa,7,51500,5,Tunai,4.5,342475
+TRX2024486,2024-09-18,Bekasi,Makanan,Rendang Kemasan,9,35500,0,E-Wallet,3.3,319500
+TRX2024658,2024-06-23,Depok,Minuman,Kopi Bubuk,12,37000,0,QRIS,4.8,444000
+TRX2024911,2024-02-13,Tangerang Selatan,Makanan,Keripik Singkong,8,23500,15,QRIS,3.9,159800
+TRX2024531,2024-09-24,Depok,Minuman,Teh Herbal,9,32500,20,Tunai,4.4,234000
+TRX2024840,2024-10-28,Tangerang Selatan,Makanan,Sambal Roa,2,35500,5,Tunai,4.9,67450
+TRX2025182,2024-06-15,Bogor,Minuman,Sirup Markisa,11,31000,10,Transfer,3.7,306900
+TRX2024260,2024-07-06,Depok,Minuman,Teh Herbal,7,54500,5,QRIS,3.2,362425
+TRX2024810,2024-03-01,Depok,Makanan,Keripik Singkong,8,37000,15,QRIS,4.5,251600
+TRX2024305,2024-01-14,Bogor,Makanan,Kue Kering,14,35000,0,QRIS,4.0,490000
+TRX2024876,2024-07-19,Depok,Makanan,Kue Kering,6,21500,5,QRIS,3.7,122550
+TRX2025117,2024-09-07,Bogor,Makanan,Keripik Singkong,10,30500,15,Transfer,4.1,259250
+TRX2024702,2024-10-12,Bekasi,Makanan,Rendang Kemasan,9,23000,0,Tunai,4.5,207000
+TRX2024771,2024-01-17,Jakarta Selatan,Makanan,Keripik Singkong,14,22500,0,Transfer,3.8,315000
+TRX2025022,2024-03-24,Jakarta Selatan,Minuman,Teh Herbal,10,37500,0,QRIS,3.3,375000
+TRX2024196,2024-06-24,Depok,Makanan,Keripik Singkong,8,39500,20,Tunai,4.7,252800
+TRX2024140,2024-08-21,Depok,Kerajinan,Batik Tulis,9,168000,15,E-Wallet,3.6,1285200
+TRX2024594,2024-09-05,Bekasi,Minuman,Teh Herbal,14,46000,20,QRIS,3.7,515200
+TRX2024122,2024-09-13,Bekasi,Minuman,Teh Herbal,2,53000,20,QRIS,5.0,84800
+TRX2024494,2024-05-17,Jakarta Selatan,Minuman,Sirup Markisa,8,39000,5,E-Wallet,3.9,296400
+TRX2024821,2024-02-27,Depok,Makanan,Kue Kering,11,36000,20,Transfer,4.9,316800
+TRX2024110,2024-07-22,Bogor,Fashion,Kaos Lokal,4,145500,5,E-Wallet,4.9,552900
+TRX2024084,2024-11-17,Bekasi,Minuman,Sirup Markisa,14,45000,5,E-Wallet,2.8,598500
+TRX2024946,2024-09-28,Tangerang Selatan,Makanan,Kue Kering,13,26000,10,Tunai,3.9,304200
+TRX2024513,2024-04-02,Bogor,Makanan,Keripik Singkong,4,23500,0,QRIS,3.3,94000
+TRX2024691,2024-07-20,Jakarta Selatan,Minuman,Sirup Markisa,9,28500,0,E-Wallet,4.1,256500
+TRX2024482,2024-11-17,Bogor,Fashion,Kemeja Tenun,7,96000,0,E-Wallet,,672000
+TRX2025134,2024-05-20,Depok,Kerajinan,Gerabah Hias,2,100000,10,Transfer,4.1,180000
+TRX2024969,2024-08-19,Jakarta Selatan,Minuman,Sirup Markisa,12,32500,0,QRIS,4.2,390000
+TRX2024611,2024-12-31,Bogor,Minuman,Kopi Bubuk,7,44500,5,Transfer,4.5,295925
+TRX2024793,2024-01-02,Tangerang Selatan,Minuman,Teh Herbal,13,37000,0,Tunai,3.2,481000
+TRX2024074,2024-06-13,Jakarta Selatan,Makanan,Sambal Roa,14,39500,15,Tunai,3.3,470050
+TRX2025186,2024-03-03,Bogor,Minuman,Sirup Markisa,2,44000,0,E-Wallet,4.6,88000
+TRX2025096,2024-01-12,Jakarta Selatan,Minuman,Sirup Markisa,8,45500,0,QRIS,3.3,364000
+TRX2024273,2024-10-09,Depok,Minuman,Teh Herbal,5,41000,0,QRIS,5.0,205000
+TRX2024791,2024-04-04,Depok,Kerajinan,Tas Anyaman,3,185000,0,QRIS,3.5,555000
+TRX2024396,2024-07-30,Jakarta Selatan,Kerajinan,Tas Anyaman,10,147500,20,E-Wallet,3.4,1180000
+TRX2024154,2024-09-13,Bogor,Kerajinan,Tas Anyaman,7,139500,0,QRIS,4.3,976500
+TRX2024750,2024-08-06,Bekasi,Minuman,Teh Herbal,14,52500,15,Transfer,4.2,624750
+TRX2024191,2024-02-17,Bekasi,Minuman,Sirup Markisa,6,39500,0,E-Wallet,4.4,237000
+TRX2024797,2024-06-14,Bogor,Minuman,Teh Herbal,1,53000,20,Transfer,4.4,42400
+TRX2025161,2024-04-06,Jakarta Selatan,Fashion,Kemeja Tenun,4,94000,0,Transfer,3.7,376000
+TRX2024187,2024-03-15,Depok,Kerajinan,Tas Anyaman,12,143500,5,Tunai,3.4,1635900
+TRX2024050,2024-09-23,Bekasi,Minuman,Teh Herbal,7,42500,15,Transfer,3.0,252875
+TRX2024038,2024-10-31,Bogor,Makanan,Sambal Roa,1,23000,0,Tunai,4.3,23000
+TRX2024418,2024-02-17,Depok,Makanan,Keripik Singkong,14,24000,15,QRIS,4.4,285600
+TRX2025137,2024-10-25,Depok,Kerajinan,Batik Tulis,13,149500,20,E-Wallet,4.5,1554800
+TRX2024208,2024-10-07,Depok,Kerajinan,Tas Anyaman,7,117500,15,E-Wallet,3.6,699125
+TRX2024375,2024-10-29,Bogor,Kerajinan,Batik Tulis,3,164500,15,E-Wallet,4.8,419475
+TRX2024463,2024-10-23,Bogor,Makanan,Rendang Kemasan,12,22000,0,QRIS,3.4,264000
+TRX2024470,2024-12-03,Depok,Fashion,Kaos Lokal,11,79500,0,Transfer,3.6,874500
+TRX2024517,2024-01-27,Bekasi,Minuman,Kopi Bubuk,1,51000,0,Transfer,,51000
+TRX2024075,2024-09-04,Bogor,Makanan,Kue Kering,9,20000,0,QRIS,3.8,180000
+TRX2024910,2024-01-08,Bekasi,Kerajinan,Batik Tulis,12,110500,5,QRIS,4.9,1259700
+TRX2024248,2024-02-07,Jakarta Selatan,Minuman,Teh Herbal,11,42500,5,Tunai,4.8,444125
+TRX2024559,2024-09-14,Jakarta Selatan,Minuman,Sirup Markisa,9,42000,0,QRIS,2.8,378000
+TRX2024302,2024-04-29,Depok,Makanan,Kue Kering,5,26500,0,QRIS,4.3,132500
+TRX2024582,2024-03-14,Bogor,Kerajinan,Batik Tulis,3,117000,0,Tunai,5.0,351000
+TRX2024899,2024-03-28,Bekasi,Minuman,Teh Herbal,9,34000,0,QRIS,3.1,306000
+TRX2025040,2024-03-25,Depok,Kerajinan,Gerabah Hias,2,133500,0,Transfer,5.0,267000
+TRX2024335,2024-05-26,Bekasi,Minuman,Kopi Bubuk,8,55500,0,QRIS,5.0,444000
+TRX2024737,2024-07-20,Depok,Minuman,Sirup Markisa,8,46000,0,Tunai,4.7,368000
+TRX2024798,2024-08-09,Bogor,Minuman,Teh Herbal,7,47500,0,QRIS,3.9,332500
+TRX2024011,2024-06-01,DEPOK,Kerajinan,Gerabah Hias,10,135000,15,QRIS,4.0,1147500
+TRX2025005,2024-02-15,Bogor,Makanan,Keripik Singkong,1,27500,15,E-Wallet,3.4,23375
+TRX2025197,2024-05-11,Depok,Kerajinan,Gerabah Hias,10,144000,10,QRIS,3.4,1296000
+TRX2024485,2024-12-31,Jakarta Selatan,Minuman,Sirup Markisa,2,46000,0,QRIS,,92000
+TRX2024462,2024-02-14,Bogor,Kerajinan,Batik Tulis,13,141000,20,QRIS,4.6,1466400
+TRX2024538,2024-05-10,Tangerang Selatan,Kerajinan,Tas Anyaman,14,117500,5,E-Wallet,4.2,1562750
+TRX2024627,2024-08-24,Bekasi,Fashion,Hijab Motif,3,104000,0,QRIS,4.2,312000
+TRX2024281,2024-02-05,Bekasi,Minuman,Teh Herbal,14,48500,0,Transfer,3.5,679000
+TRX2024253,2024-06-03,Depok,Makanan,Rendang Kemasan,12,25000,0,E-Wallet,3.4,300000
+TRX2024707,2024-10-23,Jakarta Selatan,Makanan,Sambal Roa,9,32500,0,E-Wallet,3.1,292500
+TRX2024457,2024-11-07,JAKARTA SELATAN,Kerajinan,Gerabah Hias,9,110000,15,QRIS,4.4,841500
+TRX2024830,2024-08-15,Depok,Makanan,Kue Kering,5,33000,5,E-Wallet,4.0,156750
+TRX2024223,2024-08-23,Depok,Minuman,Teh Herbal,8,43000,15,QRIS,4.6,292400
+TRX2024577,2024-06-26,Bogor,Fashion,Kaos Lokal,6,136500,20,QRIS,3.6,655200
+TRX2024672,2024-09-16,Depok,Minuman,Sirup Markisa,1,37000,15,Tunai,3.9,31450
+TRX2024813,2024-05-26,Bekasi,Fashion,Hijab Motif,10,83500,0,E-Wallet,3.6,835000
+TRX2024219,2024-05-05,Depok,Makanan,Keripik Singkong,3,29000,0,Tunai,5.0,87000
+TRX2025000,2024-10-23,Depok,Makanan,Sambal Roa,9,37500,0,QRIS,5.0,337500
+TRX2024425,2024-12-05,Jakarta Selatan,Makanan,Keripik Singkong,9,35500,15,Transfer,4.4,271575
+TRX2024369,2024-07-27,Jakarta Selatan,Makanan,Rendang Kemasan,6,38500,20,Tunai,4.7,184800
+TRX2024982,2024-09-19,Jakarta Selatan,Fashion,Kemeja Tenun,6,116000,10,Transfer,4.6,626400
+TRX2024069,2024-07-19,Bogor,Minuman,Teh Herbal,8,47500,10,QRIS,4.0,342000
+TRX2024459,2024-05-06,Jakarta Selatan,Kerajinan,Batik Tulis,3,158000,5,QRIS,4.0,450300
+TRX2024580,2024-05-02,Bekasi,Makanan,Kue Kering,7,27000,0,QRIS,4.4,189000
+TRX2024021,2024-07-17,Bogor,Makanan,Rendang Kemasan,12,37500,0,,3.9,450000
+TRX2024077,2024-01-16,Jakarta Selatan,Makanan,Rendang Kemasan,2,35000,5,QRIS,3.6,66500
+TRX2024547,2024-01-27,Jakarta Selatan,Kerajinan,Batik Tulis,10,118500,0,QRIS,4.6,1185000
+TRX2024046,2024-10-07,Depok,Kerajinan,Tas Anyaman,12,147000,10,Tunai,3.5,1587600
+TRX2024748,2024-10-29,Depok,Fashion,Hijab Motif,9,108000,0,Tunai,,972000
+TRX2024405,2024-04-11,Bekasi,Kerajinan,Gerabah Hias,6,132500,5,QRIS,4.1,755250
+TRX2025067,2024-01-28,Bekasi,Minuman,Teh Herbal,10,28500,5,QRIS,,270750
+TRX2024826,2024-11-17,Bekasi,Minuman,Teh Herbal,8,48000,10,QRIS,4.2,345600
+TRX2024125,2024-10-08,Depok,Makanan,Rendang Kemasan,6,27500,0,Tunai,3.0,165000
+TRX2024228,2024-01-02,Jakarta Selatan,Makanan,Rendang Kemasan,14,25000,5,QRIS,4.1,332500
+TRX2024757,2024-10-17,Bekasi,Minuman,Sirup Markisa,5,30000,10,QRIS,4.1,135000
+TRX2024042,2024-08-13,Depok,Kerajinan,Batik Tulis,11,157500,15,Transfer,4.3,1472625
+TRX2024516,2024-03-15,Tangerang Selatan,Kerajinan,Gerabah Hias,9,114000,0,Transfer,4.5,1026000
+TRX2024889,2024-03-28,Bekasi,Fashion,Kemeja Tenun,14,122500,0,QRIS,3.9,1715000
+TRX2024936,2024-05-08,Bogor,Kerajinan,Batik Tulis,14,188000,15,Tunai,4.1,2237200
+TRX2024908,2024-08-11,Bekasi,Fashion,Kemeja Tenun,10,133000,0,QRIS,4.2,1330000
+TRX2024572,2024-09-25,Tangerang Selatan,Makanan,Rendang Kemasan,5,38000,15,Tunai,4.3,161500
+TRX2024576,2024-06-28,Bekasi,Fashion,Kaos Lokal,10,117500,5,E-Wallet,4.5,1116250
+TRX2025082,2024-09-09,DEPOK,Minuman,Teh Herbal,13,55500,15,QRIS,4.3,613275
+TRX2024621,2024-09-18,Depok,Minuman,Sirup Markisa,9,32000,5,QRIS,4.1,273600
+TRX2024767,2024-06-09,Tangerang Selatan,Minuman,Kopi Bubuk,14,43500,0,Transfer,4.6,609000
+TRX2024743,2024-06-08,Jakarta Selatan,Makanan,Rendang Kemasan,8,21500,0,Transfer,4.1,172000
+TRX2024374,2024-09-12,Jakarta Selatan,Minuman,Sirup Markisa,13,45500,5,Transfer,,561925
+TRX2024205,2024-04-05,Bogor,Makanan,Keripik Singkong,8,38000,5,QRIS,3.9,288800
+TRX2024316,2024-06-23,Depok,Makanan,Sambal Roa,13,25000,10,QRIS,4.0,292500
+TRX2024151,2024-07-16,Bekasi,Makanan,Rendang Kemasan,10,20000,0,Tunai,3.9,200000
+TRX2024966,2024-05-07,Jakarta Selatan,Kerajinan,Gerabah Hias,11,177000,0,Tunai,3.8,1947000
+TRX2024006,2024-11-24,Bogor,Kerajinan,Batik Tulis,12,133000,0,QRIS,4.6,1596000
+TRX2025093,2024-07-11,Depok,Fashion,Kemeja Tenun,10,110000,15,E-Wallet,3.1,935000
+TRX2024802,2024-06-28,Bogor,Kerajinan,Batik Tulis,4,164000,0,Transfer,4.5,656000
+TRX2025068,2024-09-04,Bogor,Minuman,Teh Herbal,11,55000,15,Transfer,5.0,514250
+TRX2024844,2024-11-08,Depok,Makanan,Keripik Singkong,14,24500,0,QRIS,4.3,343000
+TRX2024493,2024-05-22,Jakarta Selatan,Kerajinan,Tas Anyaman,12,155000,0,E-Wallet,3.7,1860000
+TRX2024919,2024-02-28,Bogor,Minuman,Kopi Bubuk,10,34000,15,QRIS,3.6,289000
+TRX2025185,2024-01-05,Bekasi,Fashion,Hijab Motif,3,129000,5,Transfer,3.7,367650
+TRX2024500,2024-12-01,Depok,Fashion,Kemeja Tenun,13,133000,10,Transfer,4.3,1556100
+TRX2025191,2024-05-01,Bogor,Kerajinan,Batik Tulis,5,107000,0,QRIS,4.0,535000
+TRX2025039,2024-12-05,Bogor,Minuman,Sirup Markisa,10,52500,5,Transfer,3.7,498750
+TRX2024933,2024-08-30,Jakarta Selatan,Fashion,Hijab Motif,3,142500,0,,3.4,427500
+TRX2024259,2024-02-13,Jakarta Selatan,Minuman,Teh Herbal,9,48500,0,Transfer,3.6,436500
+TRX2024282,2024-02-15,Bogor,Makanan,Sambal Roa,9,38500,0,E-Wallet,4.0,346500
+TRX2024979,2024-11-17,Jakarta Selatan,Kerajinan,Gerabah Hias,2,102000,10,E-Wallet,3.6,183600
+TRX2024634,2024-09-24,Jakarta Selatan,Minuman,Kopi Bubuk,1,51000,0,QRIS,5.0,51000
+TRX2024590,2024-06-28,Jakarta Selatan,Minuman,Kopi Bubuk,6,34500,5,Transfer,4.6,196650
+TRX2024160,2024-02-08,BEKASI,Fashion,Kaos Lokal,14,115000,0,E-Wallet,4.9,1610000
+TRX2024949,2024-03-30,Jakarta Selatan,Makanan,Kue Kering,12,27000,0,Transfer,3.9,324000
+TRX2024474,2024-06-13,Jakarta Selatan,Makanan,Sambal Roa,1,24500,0,Transfer,4.3,24500
+TRX2024455,2024-04-23,Tangerang Selatan,Makanan,Sambal Roa,14,35000,20,Tunai,4.6,392000
+TRX2024320,2024-04-07,Bogor,Kerajinan,Tas Anyaman,6,152000,20,E-Wallet,4.5,729600
+TRX2024786,2024-01-20,Tangerang Selatan,Makanan,Keripik Singkong,7,33000,0,QRIS,4.9,231000
+TRX2024434,2024-08-10,Jakarta Selatan,Makanan,Kue Kering,10,35500,10,Tunai,4.3,319500
+TRX2025168,2024-11-04,TANGERANG SELATAN,Makanan,Sambal Roa,6,26500,10,Transfer,4.9,143100
+TRX2024299,2024-09-07,Jakarta Selatan,Minuman,Kopi Bubuk,10,47500,20,QRIS,4.4,380000
+TRX2024436,2024-02-22,Jakarta Selatan,Minuman,Sirup Markisa,6,33000,15,QRIS,4.9,168300
+TRX2025103,2024-08-03,Jakarta Selatan,Fashion,Hijab Motif,4,144500,15,E-Wallet,5.0,491300
+TRX2024438,2024-04-01,Bekasi,Makanan,Keripik Singkong,4,22000,10,Tunai,4.8,79200
+TRX2024325,2024-04-10,Tangerang Selatan,Fashion,Hijab Motif,11,91000,0,Tunai,3.4,1001000
+TRX2024403,2024-06-29,Jakarta Selatan,Kerajinan,Batik Tulis,10,158000,0,QRIS,3.9,1580000
+TRX2024564,2024-03-10,Depok,Makanan,Rendang Kemasan,7,23000,5,E-Wallet,4.4,152950
+TRX2024292,2024-02-25,Jakarta Selatan,Kerajinan,Batik Tulis,5,142000,20,QRIS,4.3,568000
+TRX2024278,2024-01-25,Bogor,Fashion,Kaos Lokal,8,81500,15,Tunai,3.8,554200
+TRX2024655,2024-11-23,Depok,Kerajinan,Gerabah Hias,5,178000,0,E-Wallet,5.0,890000
+TRX2024732,2024-01-29,Jakarta Selatan,Fashion,Kaos Lokal,5,139000,20,E-Wallet,4.1,556000
+TRX2024553,2024-11-04,Jakarta Selatan,Fashion,Kemeja Tenun,4,86500,10,Transfer,4.8,311400
+TRX2024094,2024-07-14,Bogor,Fashion,Kemeja Tenun,5,107000,0,E-Wallet,,535000
+TRX2025144,2024-07-26,Jakarta Selatan,Minuman,Sirup Markisa,2,51000,0,E-Wallet,4.6,102000
+TRX2024245,2024-10-26,Depok,Minuman,Teh Herbal,1,37500,20,Transfer,4.7,30000
+TRX2024945,2024-10-01,Bogor,Makanan,Sambal Roa,12,24000,0,QRIS,3.9,288000
+TRX2024775,2024-05-27,Bogor,Fashion,Kemeja Tenun,4,138500,0,Transfer,4.2,554000
+TRX2024426,2024-11-08,DEPOK,Minuman,Sirup Markisa,10,33500,20,E-Wallet,3.7,268000
+TRX2024149,2024-04-12,Tangerang Selatan,Makanan,Kue Kering,2,25500,10,QRIS,,45900
+TRX2024226,2024-01-22,Bogor,Makanan,Sambal Roa,14,28000,15,QRIS,4.7,333200
+TRX2024865,2024-02-09,Depok,Minuman,Teh Herbal,6,29500,15,QRIS,4.6,150450
+TRX2024967,2024-12-23,Bogor,Minuman,Kopi Bubuk,8,49500,0,QRIS,4.0,396000
+TRX2024900,2024-04-05,Depok,Makanan,Kue Kering,12,31500,0,Transfer,3.7,378000
+TRX2024699,2024-01-24,Bekasi,Makanan,Kue Kering,14,26000,15,Tunai,3.9,309400
+TRX2024601,2024-12-18,Depok,Fashion,Hijab Motif,9,89000,5,E-Wallet,3.8,760950
+TRX2024217,2024-05-19,Bogor,Makanan,Rendang Kemasan,4,26000,0,Tunai,4.0,104000
+TRX2024817,2024-04-22,Bogor,Kerajinan,Tas Anyaman,9,171500,20,QRIS,3.8,1234800
+TRX2024220,2024-09-13,Jakarta Selatan,Makanan,Rendang Kemasan,2,28500,0,QRIS,4.3,57000
+TRX2024213,2024-08-07,Bekasi,Kerajinan,Gerabah Hias,14,131500,0,Transfer,3.4,1841000
+TRX2025125,2024-12-14,Jakarta Selatan,Fashion,Kemeja Tenun,3,123000,15,Transfer,3.4,313650
+TRX2024907,2024-09-03,Depok,Makanan,Sambal Roa,3,25500,20,Transfer,,61200
+TRX2024394,2024-03-21,Jakarta Selatan,Kerajinan,Tas Anyaman,13,100500,15,Tunai,4.2,1110525
+TRX2024367,2024-08-08,Jakarta Selatan,Makanan,Sambal Roa,3,20000,5,QRIS,4.9,57000
+TRX2024924,2024-08-28,Jakarta Selatan,Makanan,Rendang Kemasan,12,20000,5,Transfer,3.1,228000
+TRX2024012,2024-11-25,Depok,Kerajinan,Gerabah Hias,7,111000,5,Tunai,4.6,738150
+TRX2025118,2024-09-28,BEKASI,Kerajinan,Tas Anyaman,3,119000,15,Tunai,3.8,303450
+TRX2024234,2024-08-20,Depok,Kerajinan,Tas Anyaman,13,173000,0,QRIS,4.2,2249000
+TRX2024695,2024-02-09,Jakarta Selatan,Fashion,Kaos Lokal,12,84000,10,E-Wallet,5.0,907200
+TRX2025136,2024-08-08,Depok,Fashion,Kemeja Tenun,13,149500,15,E-Wallet,,1651975
+TRX2025071,2024-09-18,Depok,Makanan,Sambal Roa,11,35000,0,QRIS,5.0,385000
+TRX2024063,2024-01-26,Depok,Fashion,Hijab Motif,9,80000,10,E-Wallet,3.1,648000
+TRX2024734,2024-12-24,Tangerang Selatan,Minuman,Kopi Bubuk,7,36000,20,QRIS,3.7,201600
+TRX2025023,2024-06-23,Bogor,Makanan,Sambal Roa,10,30500,0,Transfer,4.5,305000
+TRX2024964,2024-10-30,Bogor,Fashion,Kaos Lokal,8,105000,0,Transfer,3.6,840000
+TRX2024607,2024-07-04,Jakarta Selatan,Kerajinan,Batik Tulis,12,168500,20,E-Wallet,3.6,1617600
+TRX2024013,2024-08-10,Depok,Makanan,Keripik Singkong,5,32500,0,QRIS,3.6,162500
+TRX2024839,2024-02-22,Bogor,Makanan,Sambal Roa,11,22000,15,QRIS,5.0,205700
+TRX2024435,2024-10-20,Depok,Makanan,Sambal Roa,4,31500,5,E-Wallet,5.0,119700
+TRX2024017,2024-10-15,Jakarta Selatan,Minuman,Teh Herbal,2,39500,0,QRIS,4.4,79000
+TRX2024764,2024-08-06,Tangerang Selatan,Kerajinan,Tas Anyaman,12,126000,0,QRIS,4.8,1512000
+TRX2024348,2024-05-06,Bekasi,Minuman,Sirup Markisa,9,44000,10,Tunai,,356400
+TRX2024207,2024-02-15,Depok,Fashion,Hijab Motif,6,134500,5,QRIS,4.3,766650
+TRX2024341,2024-03-22,Bekasi,Makanan,Rendang Kemasan,8,31500,15,E-Wallet,3.5,214200
+TRX2024344,2024-10-01,Depok,Fashion,Hijab Motif,2,91000,15,E-Wallet,2.7,154700
+TRX2025084,2024-07-19,Bekasi,Kerajinan,Tas Anyaman,11,177000,0,QRIS,4.3,1947000
+TRX2025112,2024-01-04,Bogor,Makanan,Kue Kering,8,26000,5,E-Wallet,3.1,197600
+TRX2024551,2024-02-26,Depok,Fashion,Kemeja Tenun,6,76000,20,Transfer,5.0,364800
+TRX2024598,2024-09-06,Jakarta Selatan,Kerajinan,Gerabah Hias,11,114000,0,QRIS,,1254000
+TRX2024032,2024-09-21,Jakarta Selatan,Minuman,Kopi Bubuk,9,30500,0,E-Wallet,5.0,274500
+TRX2024372,2024-05-08,Tangerang Selatan,Fashion,Kemeja Tenun,12,144500,20,QRIS,4.9,1387200
+TRX2024657,2024-08-25,Bogor,Minuman,Teh Herbal,8,34000,20,E-Wallet,3.2,217600
+TRX2024172,2024-02-29,Bogor,Makanan,Kue Kering,4,30000,0,Tunai,4.6,120000
+TRX2025086,2024-05-12,Depok,Kerajinan,Gerabah Hias,13,151000,0,Transfer,3.5,1963000
+TRX2024408,2024-01-07,Depok,Makanan,Kue Kering,9,29000,0,QRIS,3.8,261000
+TRX2025050,2024-07-18,Jakarta Selatan,Fashion,Kemeja Tenun,6,102500,0,,3.7,615000
+TRX2025155,2024-10-19,Jakarta Selatan,Makanan,Sambal Roa,14,31500,0,Tunai,4.2,441000
+TRX2024200,2024-08-14,Tangerang Selatan,Kerajinan,Batik Tulis,12,189500,15,QRIS,,1932900
+TRX2024860,2024-10-13,Jakarta Selatan,Makanan,Kue Kering,11,39500,5,Transfer,5.0,412775
+TRX2025130,2024-01-27,Jakarta Selatan,Minuman,Sirup Markisa,3,38000,10,Transfer,4.2,102600
+TRX2025113,2024-06-07,Tangerang Selatan,Minuman,Teh Herbal,9,36500,0,QRIS,,328500
+TRX2025140,2024-02-01,Jakarta Selatan,Minuman,Kopi Bubuk,14,48000,10,QRIS,4.8,604800
+TRX2024489,2024-08-05,Depok,Makanan,Rendang Kemasan,5,20000,10,QRIS,4.5,90000
+TRX2025138,2024-03-13,Tangerang Selatan,Makanan,Rendang Kemasan,2,29500,0,Transfer,4.4,59000
+TRX2024212,2024-03-11,Bogor,Kerajinan,Gerabah Hias,6,157000,15,QRIS,4.4,800700
+TRX2024133,2024-08-26,Jakarta Selatan,Makanan,Keripik Singkong,12,23500,0,QRIS,4.8,282000
+TRX2024060,2024-12-18,Bekasi,Makanan,Kue Kering,9,36000,0,QRIS,4.6,324000
+TRX2024690,2024-01-28,Depok,Kerajinan,Tas Anyaman,3,166000,15,QRIS,4.7,423300
+TRX2024026,2024-11-20,Bekasi,Kerajinan,Batik Tulis,10,131500,0,QRIS,3.5,1315000
+TRX2024100,2024-04-03,Tangerang Selatan,Minuman,Sirup Markisa,14,46500,15,Tunai,3.9,553350
+TRX2024974,2024-08-08,Jakarta Selatan,Makanan,Rendang Kemasan,9,21500,0,QRIS,5.0,193500
+TRX2024776,2024-12-16,Bogor,Minuman,Teh Herbal,11,32500,20,QRIS,4.4,286000
+TRX2024788,2024-02-03,Bogor,Minuman,Teh Herbal,6,28000,20,Transfer,5.0,134400
+TRX2024520,2024-09-03,Depok,Makanan,Sambal Roa,3,28000,20,QRIS,4.4,67200
+TRX2024363,2024-03-28,Jakarta Selatan,Makanan,Sambal Roa,10,20500,0,QRIS,4.9,205000
+TRX2024309,2024-06-25,Depok,Makanan,Sambal Roa,8,28000,15,E-Wallet,4.0,190400
+TRX2024795,2024-12-10,Jakarta Selatan,Minuman,Kopi Bubuk,5,41500,10,Tunai,4.5,186750
+TRX2024828,2024-07-03,Bekasi,Makanan,Rendang Kemasan,5,28000,10,Tunai,5.0,126000
+TRX2024544,2024-04-14,Jakarta Selatan,Makanan,Sambal Roa,11,30500,0,E-Wallet,,335500
+TRX2024939,2024-11-05,Depok,Makanan,Keripik Singkong,6,20000,0,QRIS,4.7,120000
+TRX2024441,2024-09-15,Bogor,Fashion,Kaos Lokal,3,148500,15,Tunai,3.5,378675
+TRX2024647,2024-06-23,Depok,Kerajinan,Batik Tulis,4,102500,10,Tunai,4.2,369000
+TRX2025003,2024-05-01,Jakarta Selatan,Minuman,Teh Herbal,5,55000,0,Transfer,4.2,275000
+TRX2024476,2024-11-19,Jakarta Selatan,Kerajinan,Gerabah Hias,12,152500,15,QRIS,3.0,1555500
+TRX2025046,2024-07-29,Bogor,Makanan,Keripik Singkong,1,23000,20,Transfer,4.1,18400
+TRX2024062,2024-10-24,DEPOK,Minuman,Kopi Bubuk,12,32000,15,QRIS,4.7,326400
+TRX2024483,2024-09-24,Bogor,Kerajinan,Gerabah Hias,13,103000,0,Tunai,4.7,1339000
+TRX2025026,2024-12-10,Bogor,Minuman,Teh Herbal,8,50000,10,,3.7,360000
+TRX2024052,2024-10-26,Depok,Kerajinan,Gerabah Hias,5,182000,15,Transfer,4.1,773500
+TRX2024242,2024-03-22,Jakarta Selatan,Minuman,Teh Herbal,7,55500,0,E-Wallet,4.4,388500
+TRX2024035,2024-12-18,Jakarta Selatan,Makanan,Kue Kering,6,33000,20,QRIS,3.4,158400
+TRX2024738,2024-06-14,Bogor,Fashion,Kaos Lokal,1,116000,20,Tunai,3.8,92800
+TRX2024120,2024-12-02,Tangerang Selatan,Fashion,Kaos Lokal,3,91000,20,QRIS,2.9,218400
+TRX2025163,2024-03-08,Depok,Fashion,Hijab Motif,10,121000,5,E-Wallet,4.2,1149500
+TRX2025019,2024-06-04,Tangerang Selatan,Minuman,Teh Herbal,7,43500,15,Transfer,3.5,258825
+TRX2024044,2024-07-03,JAKARTA SELATAN,Minuman,Teh Herbal,4,38000,0,Transfer,3.6,152000
+TRX2024836,2024-07-18,Depok,Makanan,Keripik Singkong,3,29500,10,Tunai,4.6,79650
+TRX2024076,2024-03-14,Tangerang Selatan,Kerajinan,Gerabah Hias,14,149000,15,QRIS,5.0,1773100
+TRX2024368,2024-10-12,Depok,Minuman,Sirup Markisa,11,53000,10,QRIS,3.7,524700
+TRX2024906,2024-06-16,Depok,Makanan,Rendang Kemasan,8,34000,20,E-Wallet,4.8,217600
+TRX2024267,2024-07-29,Jakarta Selatan,Minuman,Kopi Bubuk,8,42000,10,Tunai,3.7,302400
+TRX2024728,2024-12-13,Jakarta Selatan,Fashion,Kaos Lokal,9,134000,0,Tunai,4.0,1206000
+TRX2024444,2024-01-23,Depok,Makanan,Kue Kering,5,29000,0,Transfer,4.2,145000
+TRX2024503,2024-09-17,Depok,Kerajinan,Tas Anyaman,12,117500,10,QRIS,4.1,1269000
+TRX2025057,2024-12-31,Bekasi,Fashion,Kemeja Tenun,3,121500,20,Tunai,3.6,291600
+TRX2025033,2024-06-28,Bogor,Kerajinan,Batik Tulis,1,180500,15,QRIS,3.8,153425
+TRX2024285,2024-04-13,Depok,Makanan,Rendang Kemasan,13,29500,0,Tunai,4.5,383500
+TRX2024295,2024-03-14,Jakarta Selatan,Fashion,Kaos Lokal,3,98500,0,QRIS,3.9,295500
+TRX2024625,2024-06-10,Depok,Makanan,Sambal Roa,7,23500,15,,3.8,139825
+TRX2024277,2024-07-05,Bekasi,Makanan,Rendang Kemasan,13,39000,0,E-Wallet,4.5,507000
+TRX2025156,2024-12-09,Jakarta Selatan,Minuman,Sirup Markisa,10,33000,20,Transfer,3.8,264000
+TRX2024484,2024-01-19,Bekasi,Kerajinan,Batik Tulis,8,183000,20,Transfer,4.2,1171200
+TRX2024182,2024-09-24,Jakarta Selatan,Minuman,Teh Herbal,13,54000,0,Transfer,5.0,702000
+TRX2024970,2024-02-15,Tangerang Selatan,Makanan,Kue Kering,9,23500,0,Tunai,3.7,211500
+TRX2025183,2024-03-03,Depok,Fashion,Kaos Lokal,5,78000,0,Transfer,4.5,390000
+TRX2024684,2024-03-06,Bogor,Minuman,Teh Herbal,7,44000,5,Transfer,4.4,292600
+TRX2025193,2024-08-05,Jakarta Selatan,Minuman,Kopi Bubuk,2,36500,0,E-Wallet,5.0,73000
+TRX2024036,2024-11-18,Bogor,Kerajinan,Gerabah Hias,12,106000,0,QRIS,5.0,1272000
+TRX2024002,2024-11-20,Bekasi,Minuman,Teh Herbal,4,43500,0,Tunai,4.1,174000
+TRX2024754,2024-09-27,Bogor,Makanan,Rendang Kemasan,4,21500,5,Tunai,3.8,81700
+TRX2024508,2024-03-26,JAKARTA SELATAN,Makanan,Keripik Singkong,11,22500,0,QRIS,4.3,247500
+TRX2024497,2024-07-28,Bogor,Fashion,Kemeja Tenun,9,85500,15,Tunai,4.3,654075
+TRX2024308,2024-01-20,Depok,Minuman,Sirup Markisa,5,42000,0,Transfer,4.3,210000
+TRX2024141,2024-04-12,Depok,Minuman,Sirup Markisa,1,55500,0,Transfer,4.2,55500
+TRX2024864,2024-06-04,Depok,Makanan,Rendang Kemasan,13,21000,0,E-Wallet,4.1,273000
+TRX2024183,2024-05-15,Jakarta Selatan,Minuman,Kopi Bubuk,10,43500,0,Transfer,5.0,435000
+TRX2025175,2024-08-08,Bekasi,Kerajinan,Gerabah Hias,3,169500,0,Transfer,5.0,508500
+TRX2025010,2024-11-02,Depok,Makanan,Keripik Singkong,4,20000,0,Transfer,,80000
+TRX2024912,2024-07-11,Tangerang Selatan,Makanan,Rendang Kemasan,1,35000,5,Transfer,4.3,33250
+TRX2024848,2024-11-10,Depok,Makanan,Rendang Kemasan,10,26000,0,Transfer,4.5,260000
+TRX2024511,2024-06-20,Depok,Kerajinan,Tas Anyaman,5,173000,0,E-Wallet,4.4,865000
+TRX2024731,2024-05-04,Bogor,Makanan,Keripik Singkong,1,24500,15,Transfer,3.7,20825
+TRX2024996,2024-05-26,Tangerang Selatan,Makanan,Kue Kering,13,34500,15,Transfer,4.1,381225
+TRX2024887,2024-02-05,Jakarta Selatan,Kerajinan,Gerabah Hias,4,129500,0,Tunai,,518000
+TRX2024117,2024-03-08,Jakarta Selatan,Fashion,Hijab Motif,4,122000,5,Tunai,5.0,463600
+TRX2025025,2024-12-31,Bogor,Makanan,Sambal Roa,14,32000,0,QRIS,4.1,448000
+TRX2024113,2024-02-24,Depok,Kerajinan,Gerabah Hias,5,181000,10,QRIS,3.5,814500
+TRX2024545,2024-07-26,Depok,Minuman,Teh Herbal,9,39500,5,Transfer,5.0,337725
+TRX2024165,2024-07-21,Bekasi,Makanan,Keripik Singkong,13,36000,5,QRIS,4.1,444600
+TRX2024184,2024-11-11,Bogor,Makanan,Sambal Roa,11,27500,0,Tunai,4.1,302500
+TRX2024274,2024-07-18,Bogor,Kerajinan,Batik Tulis,1,138000,10,Tunai,3.3,124200
+TRX2025001,2024-10-22,Tangerang Selatan,Makanan,Sambal Roa,9,22000,15,E-Wallet,4.5,168300
+TRX2024704,2024-07-31,Bekasi,Kerajinan,Gerabah Hias,10,162000,0,QRIS,3.5,1620000
+TRX2025024,2024-04-03,Bogor,Fashion,Kemeja Tenun,2,143000,10,Transfer,3.3,257400
+TRX2024383,2024-07-17,Jakarta Selatan,Fashion,Kaos Lokal,3,138000,0,E-Wallet,3.8,414000
+TRX2024561,2024-09-29,Bekasi,Makanan,Keripik Singkong,13,24000,0,QRIS,4.4,312000
+TRX2024862,2024-03-27,Tangerang Selatan,Makanan,Kue Kering,2,31000,15,Tunai,4.5,52700
+TRX2025044,2024-01-12,Tangerang Selatan,Fashion,Kaos Lokal,9,113000,0,Transfer,4.4,1017000
+TRX2024176,2024-07-11,Depok,Makanan,Rendang Kemasan,6,21000,0,Tunai,3.9,126000
+TRX2024379,2024-05-22,Bogor,Fashion,Kemeja Tenun,1,119500,5,Transfer,4.0,113525
+TRX2025016,2024-04-01,Depok,Makanan,Sambal Roa,6,34000,15,E-Wallet,5.0,173400
+TRX2024519,2024-12-11,Jakarta Selatan,Makanan,Rendang Kemasan,13,25500,0,QRIS,4.6,331500
+TRX2024830,2024-08-15,Depok,Makanan,Kue Kering,5,33000,5,E-Wallet,4.0,156750
+TRX2024507,2024-04-27,Bekasi,Fashion,Hijab Motif,3,149500,15,Transfer,4.6,381225
+TRX2025176,2024-12-05,Tangerang Selatan,Makanan,Kue Kering,12,38500,10,E-Wallet,5.0,415800
+TRX2024413,2024-08-05,Tangerang Selatan,Makanan,Sambal Roa,10,39000,0,Transfer,3.6,390000
+TRX2024622,2024-06-04,Depok,Makanan,Kue Kering,9,23000,15,E-Wallet,4.7,175950
+TRX2024872,2024-12-12,Depok,Makanan,Sambal Roa,4,20000,5,QRIS,4.1,76000
+TRX2024858,2024-06-03,Jakarta Selatan,Makanan,Sambal Roa,13,23000,0,QRIS,4.0,299000
+TRX2024641,2024-02-15,Bogor,Minuman,Sirup Markisa,3,49000,0,Transfer,4.2,147000
+TRX2024258,2024-07-16,Bogor,Minuman,Kopi Bubuk,11,41000,5,E-Wallet,3.4,428450
+TRX2024834,2024-04-15,Bekasi,Makanan,Rendang Kemasan,9,20500,10,Tunai,4.9,166050
+TRX2024662,2024-05-29,Depok,Makanan,Sambal Roa,6,37000,20,Transfer,3.8,177600
+TRX2024337,2024-10-07,Jakarta Selatan,Minuman,Teh Herbal,5,36500,0,QRIS,2.9,182500
+TRX2024398,2024-08-10,Bogor,Kerajinan,Batik Tulis,14,143000,0,QRIS,3.1,2002000
+TRX2024605,2024-11-04,Jakarta Selatan,Minuman,Kopi Bubuk,12,29500,0,E-Wallet,4.5,354000
+TRX2024480,2024-08-11,Tangerang Selatan,Makanan,Rendang Kemasan,8,28000,0,Transfer,4.8,224000
+TRX2025143,2024-10-20,Depok,Minuman,Sirup Markisa,6,43500,0,E-Wallet,4.1,261000
+TRX2024917,2024-07-05,Bogor,Makanan,Keripik Singkong,3,33500,5,Tunai,3.7,95475
+TRX2025017,2024-04-22,Bogor,Makanan,Rendang Kemasan,11,34500,10,Tunai,3.1,341550
+TRX2024875,2024-10-25,Bekasi,Kerajinan,Gerabah Hias,5,184000,15,Tunai,3.3,782000
+TRX2024659,2024-12-17,Jakarta Selatan,Makanan,Sambal Roa,4,32500,0,Tunai,4.4,130000
+TRX2025021,2024-11-18,Tangerang Selatan,Makanan,Keripik Singkong,1,22000,20,QRIS,4.1,17600
+TRX2024789,2024-09-16,Bogor,Minuman,Teh Herbal,5,55000,10,Transfer,,247500
+TRX2024256,2024-08-13,Bogor,Minuman,Sirup Markisa,2,47000,10,QRIS,3.6,84600
+TRX2024968,2024-01-08,Bekasi,Kerajinan,Tas Anyaman,7,132000,20,Transfer,4.6,739200
+TRX2024952,2024-03-11,Bekasi,Minuman,Teh Herbal,7,29500,20,Transfer,4.4,165200
