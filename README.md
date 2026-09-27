@@ -1,67 +1,65 @@
-# Praktikum Pertemuan 2 — pandas di Google Colab[cite: 2]
+# 🌴 Tourism Dataset Analysis
 
-**Mata Kuliah:** Exploratory Data Analysis (KMTI21133) — Pertemuan 2[cite: 2]  
-**Sub-CPMK2:** Mahasiswa mampu menggunakan Python (`pandas`) di Google Colab/Jupyter dan Git/GitHub untuk memuat, menelusuri, dan menyimpan data serta kode analisis[cite: 2].
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
----
-
-## 📌 Deskripsi
-Repositori ini berisi notebook praktikum dan dataset yang digunakan pada Pertemuan 2 mata kuliah *Exploratory Data Analysis*[cite: 2]. Praktikum ini berfokus pada pengenalan dasar manipulasi dan eksplorasi data menggunakan pustaka `pandas` dan `numpy` di lingkungan Google Colab[cite: 2].
+Proyek ini berfokus pada analisis kualitatif dan kuantitatif terhadap data pariwisata global untuk mengevaluasi kinerja destinasi wisata serta efisiensi operasionalnya.
 
 ---
 
-## 📂 Struktur File
-* `Praktikum_Pertemuan_2.ipynb`: Notebook utama berisi materi demonstrasi (`# DEMO`) dan tugas latihan mandiri/berpasangan (`# TODO`)[cite: 2].
-* `penjualan_umkm_2024.csv`: Dataset transaksi penjualan UMKM tahun 2024 yang dianalisis[cite: 2].
-* `README.md`: Dokumentasi dan panduan pelaksanaan praktikum.
+## 👥 Anggota Tim
+
+| Nama | NIM |
+| :--- | :--- |
+| **Firza Fadillah** | `0110225070` |
+| **Muhammad Fawwaz Abqory** | `0110225148` |
+| **Adli Abdurrahman Syah** | `0110225008` |
+| **Ryuzan Zachry Maliq** | `0110225082` |
 
 ---
 
-## 📊 Informasi Dataset (`penjualan_umkm_2024.csv`)
-Dataset memuat 1.212 baris data transaksi dengan kolom-kolom berikut[cite: 2]:
-* `id_transaksi`: ID unik transaksi penjualan[cite: 2].
-* `tanggal`: Tanggal transaksi[cite: 2].
-* `kota`: Kota lokasi transaksi[cite: 2].
-* `kategori`: Kategori produk (Makanan, Minuman, Fashion, Kerajinan)[cite: 2].
-* `produk`: Nama produk yang dijual[cite: 2].
-* `jumlah`: Kuantitas produk yang dibeli[cite: 2].
-* `harga_satuan`: Harga per unit produk[cite: 2].
-* `diskon_persen`: Persentase diskon yang diterapkan[cite: 2].
-* `metode_bayar`: Metode pembayaran (Transfer, Tunai, E-Wallet, QRIS)[cite: 2].
-* `rating_pelanggan`: Nilai rating dari pelanggan[cite: 2].
-* `total_bayar`: Total nilai pembayaran transaksi[cite: 2].
+## 🎯 Tujuan Proyek
+
+Memahami tren kinerja destinasi wisata dunia berdasarkan preferensi pengunjung, tingkat kepuasan, pendapatan, serta ketersediaan akomodasi guna mendukung pengambilan keputusan strategis dalam pengembangan sektor pariwisata.
 
 ---
 
-## 🔄 Cara Kerja & Ketentuan Praktikum
-1. **Bagian `# DEMO`**: Diisi dan dipelajari bersama dosen saat sesi perkuliahan[cite: 2].
-2. **Bagian `# TODO`**: Dikerjakan secara mandiri atau berpasangan oleh mahasiswa[cite: 2].
-3. **Pemeriksaan Mandiri**: Setiap bagian `# TODO` memiliki *expected output* untuk memverifikasi kebenaran hasil[cite: 2].
-4. **Pengumpulan**: Simpan dan *commit* notebook yang telah diselesaikan ke repositori Tim Git/GitHub di akhir sesi[cite: 2].
+## 📑 Ringkasan Profil & Eksplorasi Data
+
+### 1. Dimensi & Satuan Data
+Dataset pariwisata ini secara keseluruhan memiliki dimensi data yang terdiri dari **5.989 baris** dan **7 kolom**. Dalam dataset ini, setiap baris mewakili entitas **satu lokasi atau destinasi wisata spesifik** yang dicatat kinerja bisnisnya. Setiap baris menyimpan atribut unik lokasi tersebut mulai dari identitas wilayah, tingkat kepuasan wisatawan, volume pengunjung, pendapatan yang diraih, hingga ketersediaan fasilitas penginapan.
 
 ---
 
-## 🎯 Ringkasan Ringkasan Bagian Praktikum
+### 2. Pengelompokan Jenis Kolom
+Dataset ini memuat kombinasi tipe data numerik dan kategorikal, namun tidak memiliki atribut berbasis tanggal atau waktu.
 
-### **Bagian 0 — Persiapan**[cite: 2]
-* Memeriksa versi pustaka `pandas` dan `numpy`[cite: 2].
-* Mengunggah file dataset `penjualan_umkm_2024.csv` ke dalam sesi Google Colab[cite: 2].
+* **Variabel Numerik:**
+  * `Visitors` *(Integer)*: Mengukur kuantitas atau jumlah wisatawan.
+  * `Rating` *(Float)*: Mencatat tingkat kepuasan wisatawan pada skala 1,00 hingga 5,00.
+  * `Revenue` *(Float)*: Jumlah pendapatan finansial yang diperoleh destinasi.
 
-### **Bagian A — Memuat dan Memeriksa Data (Latihan 1)**[cite: 2]
-* **DEMO A1 - A3**: Memuat file CSV (`pd.read_csv`), memeriksa jumlah baris/kolom dan tipe data (`df.shape`, `df.info()`), serta ringkasan statistik deskriptif (`df.describe()`)[cite: 2].
-* **TODO A4**: Menampilkan 5 baris terakhir (`df.tail(5)`) serta daftar tipe data (`df.dtypes`)[cite: 2].
-* **TODO A5**: Memeriksa kebersihan data, meliput:
-  * Jumlah nilai kosong (*missing values*) per kolom (`df.isna().sum()`)[cite: 2].
-  * Jumlah baris duplikat (`df.duplicated().sum()`)[cite: 2].
-  * Jumlah dan daftar nilai unik pada kolom `kota` (`df['kota'].nunique()`, `df['kota'].unique()`)[cite: 2].
-
-### **Bagian B — Seleksi dan Filter (Latihan 2)**[cite: 2]
-* Melakukan seleksi kolom dan penyaringan data (*filtering*) sesuai skenario analisis[cite: 2].
+* **Variabel Kategorikal:**
+  * `Location` *(String)*: Kode unik lokasi destinasi.
+  * `Country` *(String)*: Memuat 7 negara asal destinasi wisata.
+  * `Category` *(String)*: Jenis objek wisata (*Nature*, *Historical*, *Cultural*, *Beach*, *Adventure*, dan *City*).
+  * `Accommodation_Available` *(String)*: Status ketersediaan fasilitas penginapan (`Yes` / `No`).
 
 ---
 
-## 🚀 Panduan Menjalankan Notebook
-1. Buka [Google Colab](https://colab.research.google.com/).
-2. Unggah file `Praktikum_Pertemuan_2.ipynb`[cite: 2].
-3. Jalankan sel **Bagian 0** dan unggah `penjualan_umkm_2024.csv` jika diminta[cite: 2].
-4. Eksekusi sel kode secara berurutan[cite: 2].
+### 3. Analisis Kualitas Data (*Data Issues*)
+Dari aspek kualitas dan kebersihan data, dataset ini secara umum berada dalam kondisi yang sangat baik karena **tidak ditemukan adanya nilai kosong (*missing values*) maupun baris duplikat** di seluruh kolom. Tipe data dasar yang digunakan oleh Pandas juga sudah tepat sesuai dengan sifat masing-masing variabel, dan variasi entitas pada variabel kategorikal seperti nama negara serta kategori wisata tercatat secara konsisten.
+
+> ℹ️ **Catatan Teknis:**  
+> Kolom `Location` menggunakan pengodean string acak (*hash*) alih-alih nama asli tempat wisata, sehingga kurang ramah untuk dibaca secara langsung oleh manusia (*not human-readable*).
+
+---
+
+### 4. Kelayakan Data untuk Pertanyaan Analisis Tim
+Dataset ini tergolong belum cukup lengkap apabila tim analisis ingin melakukan evaluasi tren kinerja bisnis berbasis rentang waktu, meskipun sudah memadai untuk analisis agregat deskriptif dasar.
+
+⚠️ **Keterbatasan Utama Dataset:**
+1. **Ketiadaan Atribut Waktu:** Absennya kolom tanggal atau *timestamp* menyebabkan tim tidak dapat mengukur pertumbuhan tahunan (*YoY growth*), analisis pola musiman (*seasonality*), maupun tren pengunjung bulanan.
+2. **Pseudonimitas Geografis:** Penggunaan kode lokasi acak menyulitkan pemetaan spasial atau analisis geografis secara nyata.
+3. **Detail Finansial Terbatas:** Ketiadaan variabel biaya operasional (*Cost*) atau harga tiket menyebabkan pengukuran profitabilitas bersih (*Net Profit*) serta evaluasi strategi penentuan harga belum dapat dilakukan secara komprehensif.
