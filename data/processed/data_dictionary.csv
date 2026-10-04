@@ -1,0 +1,8 @@
+nama_kolom,deskripsi,tipe_data,skala_pengukuran,satuan,contoh_nilai,nilai_kosong,sumber,kategori_data_pribadi,tindakan_penanganan,catatan
+Location,Kode pengenal unik lokasi wisata,string,nominal,-,kuBZRkVsAR,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,Berupa string acak alfanumerik
+Country,Nama negara lokasi wisata berada,string,nominal,-,India,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,-
+Category,Kategori atau jenis atraksi wisata,string,nominal,-,Nature,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,-
+Visitors,Jumlah pengunjung tahunan lokasi wisata,int,rasio,orang,948853,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,-
+Rating,Skor penilaian atau rating dari lokasi wisata,float,interval,-,1.32,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,Rentang rating tertentu
+Revenue,Pendapatan tahunan yang diperoleh lokasi wisata,float,rasio,USD,84388.38,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,-
+Accommodation_Available,Ketersediaan akomodasi di sekitar lokasi wisata,string,nominal,-,Yes,tidak,tourism_dataset.csv,bukan data pribadi,pertahankan,Berisi nilai Yes atau No
