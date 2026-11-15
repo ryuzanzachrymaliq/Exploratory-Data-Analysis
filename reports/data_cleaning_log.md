@@ -1,83 +1,32 @@
-# 🧹 Log Pembersihan & Pra-pemrosesan Data (Data Cleaning & Preprocessing Log)
+🧹 Log Pembersihan & Pra-pemrosesan Data (Data Cleaning & Preprocessing Log)Dokumen ini mencatat seluruh tahapan inspeksi, identifikasi masalah data, keputusan pembersihan, serta transformasi data yang dilakukan pada tourism_dataset.csv sebelum memasuki tahap Analisis Data Eksplorasi (EDA).📌 Ringkasan Data AwalNama File Dataset: tourism_dataset.csvJumlah Baris (Awal): 5,989 barisJumlah Kolom (Awal): 7 kolomTipe Data: Kombinasi Numerik (int64, float64) dan Kategorikal (object/string).🔍 Tahapan Inspeksi & Pembersihan Data1. Pengecekan & Penanganan Nilai Hilang (Missing Values)Inspeksi: Menjalankan df.isnull().sum() untuk mengidentifikasi keberadaan nilai kosong di setiap kolom.Temuan:Tidak ditemukan nilai kosong (0 missing values) pada seluruh kolom dalam dataset.Tindakan:Tidak diperlukan proses imputasi atau penghapusan baris karena seluruh data telah lengkap. (Catatan: Script imputasi menggunakan nilai Median untuk variabel numerik dan Modus untuk variabel kategorikal tetap disertakan pada pipeline sebagai langkah pencegahan).2. Pengecekan & Penanganan Data Duplikat (Duplicate Records)Inspeksi: Menjalankan df.duplicated().sum() untuk mengecek baris yang terduplikasi secara keseluruhan maupun berdasarkan ID unik.Temuan: Terdeteksi 0 baris duplikat secara keseluruhan.Tindakan: Menjalankan df.drop_duplicates(inplace=True) untuk memastikan integritas dan keunikan setiap baris data tetap terjaga.3. Penyesuaian Tipe Data (Data Types Conversion)Inspeksi: Menjalankan df.dtypes dan df.info() untuk memverifikasi kesesuaian tipe data pada tiap kolom.Tindakan:Memastikan kolom identifier (Location) tetap bertipe object agar tidak ikut terhitung dalam kalkulasi statistik numerik.Mengonversi kolom kategorikal (Country, Category, Accommodation_Available) menjadi tipe category untuk efisiensi penggunaan memori saat proses analisis.4. Penanganan Format & Konsistensi Teks (Text Standardization)Inspeksi: Pengecekan nilai unik pada kolom kategorikal menggunakan df[col].unique() untuk mendeteksi typo, spasi berlebih, atau perbedaan kapitalisasi.Tindakan:Menghilangkan spasi berlebih di awal maupun akhir teks menggunakan .str.strip().Menyeragamkan format penulisan huruf menggunakan .str.title() agar seluruh kategori dan nama negara konsisten.5. Deteksi & Penanganan Outlier (Outlier Detection)Inspeksi: Menggunakan visualisasi Boxplot dan metode IQR (Interquartile Range) pada variabel numerik (Visitors, Rating, dan Revenue).Temuan: Outlier teridentifikasi pada variabel Revenue dan Visitors, namun tetap dipertahankan tanpa penghapusan maupun capping karena merepresentasikan variasi alami dari destinasi wisata populer dengan tingkat kunjungan tinggi.📊 Ringkasan Data Akhir (Post-Cleaning)Nama KolomTipe Data AwalTipe Data Akhir% Missing Values Pasca CleaningKeteranganLocationobjectobject0%ID/Nama unik lokasi (teks distandarisasi)Countryobjectcategory0%Nama negara (teks distandarisasi)Categoryobjectcategory0%Kategori wisata (teks distandarisasi)Visitorsint64int640%Jumlah pengunjung (variasi alami dipertahankan)Ratingfloat64float640%Skor penilaian destinasiRevenuefloat64float640%Pendapatan wisata (variasi alami dipertahankan)Accommodation_Availableobjectcategory0%Ketersediaan akomodasi (Yes/No)🛠️ Potongan Kode Utama yang Dijalankanimport pandas as pd
 
-Dokumen ini mencatat seluruh tahapan inspeksi, identifikasi masalah data, keputusan pembersihan, serta transformasi data yang dilakukan pada `tourism_dataset.csv` sebelum tahap analisis eksplorasi (EDA).
+# Memuat dataset
+df = pd.read_csv('tourism_dataset.csv')
 
----
-
-## 📌 Ringkasan Data Awal
-
-- **Nama File Dataset:** `tourism_dataset.csv`
-- **Jumlah Baris (Awal):** *[Isi dengan jumlah baris awal, contoh: 1,000]*
-- **Jumlah Kolom (Awal):** *[Isi dengan jumlah kolom awal, contoh: 8]*
-- **Tipe Data:** Kombinasi Numerik (Integer/Float) dan Kategorikal (Object/String).
-
----
-
-## 🔍 Tahapan Inspeksi & Pembersihan Data
-
-### 1. Pengecekan & Penanganan Nilai Hilang (*Missing Values*)
-* **Inspeksi:** Menjalankan `df.isnull().sum()` untuk mengidentifikasi keberadaan nilai kosong di setiap kolom.
-* **Temuan:** 
-  * *[Contoh: Kolom 'Rating' memiliki 5 nilai kosong]*
-  * *[Contoh: Kolom 'Kategori' tidak memiliki nilai kosong]*
-* **Tindakan:**
-  * Untuk variabel numerik: Imputasi menggunakan nilai **Median** (apabila terdapat skewed distribution/outlier) atau **Mean**.
-  * Untuk variabel kategorikal: Imputasi menggunakan **Modus** (nilai paling sering muncul) atau dilabeli sebagai `'Unknown'`.
-
-### 2. Pengecekan & Penanganan Data Duplikat (*Duplicate Records*)
-* **Inspeksi:** Menjalankan `df.duplicated().sum()` untuk mengecek baris ganda.
-* **Temuan:** Terdeteksi *[0 / X]* baris duplikat secara keseluruhan.
-* **Tindakan:** `df.drop_duplicates(inplace=True)` dijalankan untuk menghapus data yang terduplikasi (jika ada).
-
-### 3. Penyesuaian Tipe Data (*Data Types Conversion*)
-* **Inspeksi:** Menjalankan `df.dtypes` dan `df.info()`.
-* **Tindakan:**
-  * Memastikan kolom identifier (seperti `Location_ID`) diubah menjadi tipe `object` atau disisihkan agar tidak mengganggu kalkulasi statistik numerik.
-  * Mengonversi kolom teks/kategori ke tipe `category` untuk efisiensi memori (opsional).
-
-### 4. Penanganan Format & Konsistensi Teks (*Text Standardization*)
-* **Inspeksi:** Pengecekan nilai unik pada kolom kategorikal menggunakan `df[col].unique()`.
-* **Tindakan:**
-  * Menghilangkan spasi berlebih di awal/akhir string menggunakan `.str.strip()`.
-  * Mengubah huruf menjadi *lowercase* / *titlecase* agar format entri data seragam.
-
-### 5. Deteksi & Penanganan Outlier (*Outlier Detection*)
-* **Inspeksi:** Menggunakan visualisasi **Boxplot** dan metode IQR (*Interquartile Range*) pada variabel numerik.
-* **Temuan:** Outlier diidentifikasi pada variabel *[Sebutkan kolom numerik jika ada]* tetapi tetap dipertahankan / di-cap (*capping*) karena merupakan variasi data yang valid.
-
----
-
-## 📊 Ringkasan Data Akhir (Post-Cleaning)
-
-| Nama Kolom | Tipe Data Awal | Tipe Data Akhir | % Missing Values Pasca Cleaning | Keterangan |
-| :--- | :--- | :--- | :--- | :--- |
-| `Location_ID` | int64 / object | object | 0% | ID unik lokasi |
-| `[Nama_Kolom_2]` | float64 | float64 | 0% | Imputasi median |
-| `[Nama_Kolom_3]` | object | category | 0% | Teks distandarisasi |
-
----
-
-## 🛠️ Potongan Kode Utama yang Dijalankan
-
-```python
-# 1. Pengecekan nilai kosong dan duplikat
+# 1. Pengecekan dimensi, nilai kosong, dan duplikat
+print(f"Dimensi Awal: {df.shape}")
 print("Missing values:\n", df.isnull().sum())
 print("Duplicates:", df.duplicated().sum())
 
 # 2. Hapus duplikat
 df = df.drop_duplicates()
 
-# 3. Imputasi nilai kosong pada variabel numerik dengan median
+# 3. Imputasi nilai kosong pada variabel numerik dengan median (jika ada)
 kolom_num = df.select_dtypes(include=['number']).columns
 for col in kolom_num:
-  if df[col].isnull().sum() > 0:
-    df[col].fillna(df[col].median(), inplace=True)
+    if df[col].isnull().sum() > 0:
+        df[col] = df[col].fillna(df[col].median())
 
-# 4. Standarisasi Teks
+# 4. Standarisasi Teks & Konversi Tipe Data Kategorikal
 kolom_obj = df.select_dtypes(include=['object']).columns
 for col in kolom_obj:
-  df[col] = df[col].astype(str).str.strip()
-```
+    if df[col].isnull().sum() > 0:
+        df[col] = df[col].fillna(df[col].mode()[0])
+    df[col] = df[col].astype(str).str.strip()
 
----
-*Log ini diperbarui secara otomatis sesuai dengan alur pra-pemrosesan notebook EDA.*
+kolom_kat = ['Country', 'Category', 'Accommodation_Available']
+for col in kolom_kat:
+    if col in df.columns:
+        df[col] = df[col].astype('category')
+
+print("\nPembersihan data selesai. Dimensi Akhir:", df.shape)
